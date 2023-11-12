@@ -1,0 +1,2634 @@
+[
+  {
+    "title": "ChatXGB",
+    "url": "https://chat.openai.com/g/g-dq9i42tRO-chatxgb",
+    "text": "GPT chatbot that specializes in writing and assists you with technical questions related to the XGBoost algorithm and library.",
+    "slug": "chatxgb",
+    "Public url": "https://allgpts.co/chatxgb ",
+    "category": "Writing"
+  },
+  {
+    "title": "AnalyzePaper",
+    "url": "https://chat.openai.com/g/g-WIlexDAW5-analyzepaper",
+    "text": "Serves as a writing assistant adept at reviewing research papers and articles. Evaluates claims; assesses study quality; gauges result confidence; and delivers concise summaries",
+    "slug": "analyzepaper",
+    "Public url": "https://allgpts.co/analyzepaper",
+    "category": "Writing; Assistant"
+  },
+  {
+    "title": "RubyGPT",
+    "url": "https://chat.openai.com/g/g-ASMq03VdH-rubygpt",
+    "text": "Your Ruby coding assistant.",
+    "slug": "rubygpt",
+    "Public url": "https://allgpts.co/rubygpt/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Showtimes",
+    "url": "https://chat.openai.com/g/g-gNH4K4Egg-shownotes",
+    "text": "Transcribe and summarize audio",
+    "slug": "showtimes",
+    "Public url": "https://allgpts.co/showtimes",
+    "category": "Audio"
+  },
+  {
+    "title": "Hacker Art",
+    "url": "https://chat.openai.com/g/g-LjmHKgJZO-hacker-art-by-rez0",
+    "text": "Crafts badass hacker art and profile pics with a flair for design",
+    "slug": "hacker-art",
+    "Public url": "https://allgpts.co/hacker-art",
+    "category": "Design"
+  },
+  {
+    "title": "Product Coach",
+    "url": "https://chat.openai.com/g/g-e0xH6MMQs-product-coach",
+    "text": "Guiding your product journey with expert insights.\n\n",
+    "slug": "product-coach",
+    "Public url": "https://allgpts.co/product-coach",
+    "category": "Coach"
+  },
+  {
+    "title": "AstrologyPT",
+    "url": "https://chat.openai.com/g/g-ybVpGksOV-astrologypt",
+    "text": "Astrology guide for celestial insights.",
+    "slug": "astrologypt",
+    "Public url": "https://allgpts.co/astrologypt",
+    "category": "Guide"
+  },
+  {
+    "title": "GetPaths",
+    "url": "https://chat.openai.com/g/g-6Bcjkotez-getpaths",
+    "text": "Specializes in analyzing web content; including HTTP traffic; JavaScript files; and source code. Produces targeted lists of URLs for advanced testing; blending expertise in web and programming",
+    "slug": "getpaths",
+    "Public url": "https://allgpts.co/getpaths/",
+    "category": "Web; Programming"
+  },
+  {
+    "title": "FixGPT",
+    "url": "https://chat.openai.com/g/g-1Ln9S5qrE-fixgpt",
+    "text": "If your \"unified\" chatGPT doesn't know it can browse the web or draw; this GPT is for you!\n",
+    "slug": "fixgpt",
+    "Public url": "https://allgpts.co/fixgpt",
+    "category": "Web"
+  },
+  {
+    "title": "ExtractWisdom",
+    "url": "https://chat.openai.com/g/g-gmeHD0Ayr-extractwisdom",
+    "text": "Writing virtuoso: Extracting wisdom from any text; as if meticulously handwritten notes were taken for hours",
+    "slug": "extractwisdom",
+    "Public url": "https://allgpts.co/extractwisdom",
+    "category": "Writing"
+  },
+  {
+    "title": "AI GPT",
+    "url": "https://chat.openai.com/g/g-agCdZedbZ-ai-gpt",
+    "text": "AI & ML Expert fluent in deep learning frameworks; mastering the art of programming for advanced machine learning applications",
+    "slug": "ai-gpt",
+    "Public url": "https://allgpts.co/ai-gpt",
+    "category": "Programming"
+  },
+  {
+    "title": "TweetX Enhancer",
+    "url": "https://chat.openai.com/g/g-tMp039mDw",
+    "text": "Social media sorcerer who enhances tweets for maximum engagement; ready to add a style twist on demand",
+    "slug": "tweetx-enhancer",
+    "Public url": "https://allgpts.co/tweetx-enhancer/",
+    "category": "Social"
+  },
+  {
+    "title": "Meme Magic",
+    "url": "https://chat.openai.com/g/g-SQTa6OMNN",
+    "text": "Creative meme wizard with a knack for humor; conjuring laughter with every post.",
+    "slug": "meme-magic",
+    "Public url": "https://allgpts.co/meme-magic/",
+    "category": "Humor"
+  },
+  {
+    "title": "Math Mentor",
+    "url": "https://chat.openai.com/g/g-ENhijiiwK",
+    "text": "I help parents help their kids with math. Need a 9pm refresher on geometry proofs? I’m here for you",
+    "slug": "math-mentor",
+    "Public url": "https://allgpts.co/math-mentor/",
+    "category": "Math"
+  },
+  {
+    "title": "FitPal",
+    "url": "https://chat.openai.com/g/g-zoXbeHp7G",
+    "text": "AI fitness coach with workout visuals and resources",
+    "slug": "fitpal",
+    "Public url": "https://allgpts.co/fitpal/",
+    "category": "Coach"
+  },
+  {
+    "title": "Personal Brand Navigator",
+    "url": "https://chat.openai.com/g/g-kGmOZF4zk",
+    "text": "Personal brand architect; guiding you to success with savvy marketing strategies",
+    "slug": "personal-brand-navigator",
+    "Public url": "https://allgpts.co/personal-brand-navigator/",
+    "category": "Marketing"
+  },
+  {
+    "title": "Currency Converter",
+    "url": "https://chat.openai.com/g/g-ZNvavsN3l",
+    "text": "Real-time currency converter; simplifying transactions with up-to-the-minute rates",
+    "slug": "currency-converter",
+    "Public url": "https://allgpts.co/currency-converter/",
+    "category": "Converter"
+  },
+  {
+    "title": "WebPilot",
+    "url": "https://chat.openai.com/g/g-pNWGgUYqS",
+    "text": "Browse Webpage/PDF/Data. Chat &amp; Write with one/many/none URLs.",
+    "slug": "webpilot",
+    "Public url": "https://allgpts.co/webpilot",
+    "category": "Web"
+  },
+  {
+    "title": "BabyAgi.txt",
+    "url": "https://chat.openai.com/g/g-lzbeEOr9Y",
+    "text": "Creative guidance meets efficient task management in your trusty assistant",
+    "slug": "babyagitxt",
+    "Public url": "https://allgpts.co/babyagitxt/",
+    "category": "Assistant"
+  },
+  {
+    "title": "TL;DR",
+    "url": "https://chat.openai.com/g/g-XrwZyE9OZ",
+    "text": "Instant writing wizard: Enter any URL; receive a succinct summary of its text content",
+    "slug": "tldr",
+    "Public url": "https://allgpts.co/tldr/",
+    "category": "Writing"
+  },
+  {
+    "title": "CodeCopilot",
+    "url": "https://chat.openai.com/g/g-2DQzU5UZl",
+    "text": "Code Copilot; your pair programming assistant",
+    "slug": "codecopilot",
+    "Public url": "https://allgpts.co/codecopilot/",
+    "category": "Assistant; Programming"
+  },
+  {
+    "title": "Logo Maker",
+    "url": "https://chat.openai.com/g/g-Mc4XM2MQP",
+    "text": "Design maestro crafting professional; high-quality PNGs for your business",
+    "slug": "logo-maker",
+    "Public url": "https://allgpts.co/logo-maker/",
+    "category": "Design"
+  },
+  {
+    "title": "Gif-PT",
+    "url": "https://chat.openai.com/g/g-gbjSvXu6i",
+    "text": "Design guru and programming virtuoso: Creates dynamic GIFs using DALL·E3 for spritesheets; with a coding twist for slicing and animation",
+    "slug": "gif-pt",
+    "Public url": "https://allgpts.co/gif-pt/",
+    "category": "Design; Programming"
+  },
+  {
+    "title": "Disagree with Me",
+    "url": "https://chat.openai.com/g/g-cnPMruIo3",
+    "text": "Writing assistant that explores the flip side of ideas; viewpoints; and opinions",
+    "slug": "disagree-with-me",
+    "Public url": "https://allgpts.co/disagree-with-me/",
+    "category": "Writing; Assistant"
+  },
+  {
+    "title": "DevHunt",
+    "url": "https://chat.openai.com/g/g-7zRO0y5cW-devhunt",
+    "text": "Your programming playground: Discover and launch your next favorite dev tools with us",
+    "slug": "devhunt",
+    "Public url": "https://allgpts.co/devhunt/",
+    "category": "Programming"
+  },
+  {
+    "title": "Tweet Reply",
+    "url": "https://chat.openai.com/g/g-38ZTJlXKJ-tweet-reply",
+    "text": "Social maestro crafting engaging tweet responses that captivate and connect",
+    "slug": "tweet-reply",
+    "Public url": "https://allgpts.co/tweet-reply",
+    "category": "Social"
+  },
+  {
+    "title": "Emailgeeks",
+    "url": "https://chat.openai.com/g/g-IpYeySKKw-emailgeeks",
+    "text": "An expert on email marketing",
+    "slug": "emailgeeks",
+    "Public url": "https://allgpts.co/emailgeeks/",
+    "category": "Marketing"
+  },
+  {
+    "title": "PlaylistAI: Spotify",
+    "url": "https://chat.openai.com/g/g-KkxbQAVuk-playlistai-spotify",
+    "text": "Audio alchemist: Craft Spotify playlists for any prompt with ease",
+    "slug": "playlistai-spotify",
+    "Public url": "https://allgpts.co/playlistai-spotify/",
+    "category": "Audio"
+  },
+  {
+    "title": "Good News Concierge",
+    "url": "https://chat.openai.com/g/g-0ZTu1ojV3-good-news-concierge",
+    "text": "Web navigator with a marketing twist: I uncover positive news stories just for you",
+    "slug": "good-news-concierge",
+    "Public url": "https://allgpts.co/good-news-concierge/",
+    "category": "Web; Marketing"
+  },
+  {
+    "title": "LifeOS",
+    "url": "https://chat.openai.com/g/g-Lmt2TBepG-lifeos",
+    "text": "Your trusty assistant for setting goals and building effective routines",
+    "slug": "lifeos",
+    "Public url": "https://allgpts.co/lifeos/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Language Coach",
+    "url": "https://chat.openai.com/g/g-0g6ZdEtv6-language-coach",
+    "text": "Education ally: Master speaking a new language like a local; no matter where you are",
+    "slug": "language-coach",
+    "Public url": "https://allgpts.co/language-coach/",
+    "category": "Education"
+  },
+  {
+    "title": "Simpsonize Me",
+    "url": "https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me",
+    "text": "Design magician: Transform photos into charming Simpsons-style art with flai",
+    "slug": "simpsonize-me",
+    "Public url": "https://allgpts.co/simpsonize-me/",
+    "category": "Design"
+  },
+  {
+    "title": "ScholarAI",
+    "url": "https://chat.openai.com/g/g-L2HknCZTC-scholarai",
+    "text": "ScholarAI - Your Research Assistant ; unlock scientific research from over 200M papers  ",
+    "slug": "scholarai",
+    "Public url": "https://allgpts.co/scholarai/",
+    "category": "Research"
+  },
+  {
+    "title": "Semiotic Engine",
+    "url": "https://chat.openai.com/g/g-413R7Lc48-semiotic-engine",
+    "text": "semiotic theory & analysis",
+    "slug": "semiotic-engine",
+    "Public url": "https://allgpts.co/semiotic-engine/",
+    "category": "Analysis"
+  },
+  {
+    "title": "Developer Doc Search",
+    "url": "https://chat.openai.com/g/g-AINygIiYy-developer-doc-search",
+    "text": "Programming made seamless with Developer Doc Search - effortlessly explore thousands of open source packages and their GitHub documentation. Your gateway to the world of Open Source development",
+    "slug": "developer-doc-search",
+    "Public url": "https://allgpts.co/developer-doc-search/",
+    "category": "Programming; Open Source"
+  },
+  {
+    "title": "Dungeon Master",
+    "url": "https://chat.openai.com/g/g-cieyjUKku-the-dungeon-master",
+    "text": "Dungeon Master - crafting adventures that respect agency. Elevate your hobby with immersive storytelling and boundless creativity",
+    "slug": "dungeon-master",
+    "Public url": "https://allgpts.co/dungeon-master/",
+    "category": "Hobby"
+  },
+  {
+    "title": "Blog Expert\n",
+    "url": "https://chat.openai.com/g/g-PWizFQk8C-blog-expert",
+    "text": "Elevate your marketing game with an SEO blog content creator; blending keyword expertise with engaging writing. Unlock the power of strategic content for impactful marketing results",
+    "slug": "blog-expert",
+    "Public url": "https://allgpts.co/blog-expert/",
+    "category": "Marketing"
+  },
+  {
+    "title": "AI Websites",
+    "url": "https://chat.openai.com/g/g-WTUuSzTOj-ai-websites",
+    "text": "Create a professional website on a domain with blog/payment/scheduling pages in 60 seconds",
+    "slug": "ai-websites",
+    "Public url": "https://allgpts.co/ai-websites/",
+    "category": "Web"
+  },
+  {
+    "title": "Copywriter Assistant\n",
+    "url": "https://chat.openai.com/g/g-BLXN541o5-copywriter-assistant",
+    "text": "I am here to help improve and refine your copywriting.",
+    "slug": "copywriter-assistant",
+    "Public url": "https://allgpts.co/copywriter-assistant/",
+    "category": "Writing"
+  },
+  {
+    "title": "Learn Creole",
+    "url": "https://chat.openai.com/g/g-U3ZybqREH-learn-creole",
+    "text": "Embark on an educational journey with a Creole language tutor from Guadeloupe. Unlock the richness of culture and language in a personalized learning experience",
+    "slug": "learn-creole",
+    "Public url": "https://allgpts.co/learn-creole/",
+    "category": "Education"
+  },
+  {
+    "title": "Storyteller ",
+    "url": "https://chat.openai.com/g/g-dmgFloZ5w-storyteller",
+    "text": "Crafting tales with a unique blend of vision and DALL-E magic; this storyteller seamlessly weaves writing and design into captivating narratives. Elevate your storytelling experience",
+    "slug": "storyteller",
+    "Public url": "https://allgpts.co/storyteller",
+    "category": "Writing; Design"
+  },
+  {
+    "title": "Salvador ",
+    "url": "https://chat.openai.com/g/g-6iEq5asfX-salvador",
+    "text": "Salvador: where design meets the extraordinary. A visionary creator blending artistic flair with the magic of DALL-E. Elevate your design experience with Salvador",
+    "slug": "salvador ",
+    "Public url": "https://allgpts.co/salvador/",
+    "category": "Design"
+  },
+  {
+    "title": "Kraftful ",
+    "url": "https://chat.openai.com/g/g-jtefpmdjS-kraftful",
+    "text": "Kraftful - Your product coach. Ask about best practices. Get top gurus' product thinking.",
+    "slug": "kraftful",
+    "Public url": "https://allgpts.co/kraftful/",
+    "category": "Coach; Product"
+  },
+  {
+    "title": "Bike GPT",
+    "url": "https://chat.openai.com/g/g-2ncsFIDY6-bike-gpt",
+    "text": "Your go-to assistant for bike care and cycling expertise. From repairs to upgrades; I've got you covered. Let's elevate your cycling experience together",
+    "slug": "bike-gpt",
+    "Public url": "https://allgpts.co/bike-gpt/",
+    "category": "Assistant; Guide"
+  },
+  {
+    "title": "Search Parliamentary Proceedings AI",
+    "url": "https://chat.openai.com/g/g-mQ9E8rCzZ-guo-hui-yi-shi-lu-jian-suo-for-gpts",
+    "text": "Empower your research with the ability to search and explore parliamentary proceedings through news and text information. Uncover insights effortlessly",
+    "slug": "search-parliamentary-proceedings-ai",
+    "Public url": "https://allgpts.co/search-parliamentary-proceedings-ai",
+    "category": "Research"
+  },
+  {
+    "title": "Fantasy Book Weaver",
+    "url": "https://chat.openai.com/g/g-a4YGO3q49-fantasy-book-weaver",
+    "text": "Dive into the world of fantasy with a book weaver; crafting endless interactive adventures. A hobby turned into captivating writing experiences awaits",
+    "slug": "fantasy-book-weaver",
+    "Public url": "https://allgpts.co/fantasy-book-weaver/",
+    "category": "Writing; Hobby"
+  },
+  {
+    "title": "RubyGPT",
+    "url": "https://chat.openai.com/g/g-ASMq03VdH-rubygpt",
+    "text": "Your Ruby programming assistant.",
+    "slug": "rubygpt",
+    "Public url": "https://allgpts.co/rubygpt/",
+    "category": "Programming; Assistant"
+  },
+  {
+    "title": "Cocktail MixMaster",
+    "url": "https://chat.openai.com/g/g-x9zamlKYO-cocktail-mixmaster",
+    "text": "I'm a virtual bartender who crafts cocktail recipes from your ingredients.",
+    "slug": "cocktail-mixmaster",
+    "Public url": "https://allgpts.co/cocktail-mixmaster/",
+    "category": "Recipe"
+  },
+  {
+    "title": "The Art of War",
+    "url": "https://chat.openai.com/g/g-pzTavd88i-sun-zi-bing-fa-ge-jia-jie-shuo",
+    "text": "Unlock the wisdom of 'The Art of War' with an educational twist. Your hobby of strategic thinking gets a boost with a dedicated interpreter at your service",
+    "slug": "the-art-of-war",
+    "Public url": "https://allgpts.co/the-art-of-war/",
+    "category": "Education; Hobby"
+  },
+  {
+    "title": "Visual Weather Artist GPT",
+    "url": "https://chat.openai.com/g/g-twUGxmpHv-visual-weather-artist-gpt",
+    "text": "I'm the visual weather artist. Give me your location (or any other) and I will draw the current weather conditions for you!",
+    "slug": "visual-weather-artist-gpt",
+    "Public url": "https://allgpts.co/visual-weather-artist-gpt/",
+    "category": "Assistant; Hobby"
+  },
+  {
+    "title": "YT Summarizer",
+    "url": "https://chat.openai.com/g/g-dHRRUFODc-yt-summarizer",
+    "text": "YouTube Video Summarizer- Saves a lot of screen time by summarizing YouTube videos with timestamps.",
+    "slug": "yt-summarizer",
+    "Public url": "https://allgpts.co/yt-summarizer/",
+    "category": "Video"
+  },
+  {
+    "title": "Thumbnail Sketcher",
+    "url": "https://chat.openai.com/g/g-Cw11sym4k-thumbnail-sketcher",
+    "text": "Elevate your writing with captivating design! I specialize in creating blog thumbnails that grab attention and complement your content seamlessly",
+    "slug": "thumbnail-sketcher",
+    "Public url": "https://allgpts.co/thumbnail-sketcher/",
+    "category": "Writing; Design"
+  },
+  {
+    "title": "Automation Consultant",
+    "url": "https://chat.openai.com/g/g-ERKZdxC6D-automation-consultant-by-zapier",
+    "text": "Automation Assistant - Discover opportunities to save time with automation at work and get them setup for you.",
+    "slug": "automation-consultant",
+    "Public url": "https://allgpts.co/automation-consultant/",
+    "category": "Assistant"
+  },
+  {
+    "title": "GPT Cookbook Assistant",
+    "url": "https://chat.openai.com/g/g-0CJGM4hMw-gpt-cookbook-assistant",
+    "text": "GPT Cookbook Assistant- Enhanced with OpenAI API reference recipes and guides",
+    "slug": "gpt-cookbook-assistant",
+    "Public url": "https://allgpts.co/gpt-cookbook-assistant/",
+    "category": "Assistant; Recipe"
+  },
+  {
+    "title": "AlphaNotes ",
+    "url": "https://chat.openai.com/g/g-ZdfrSRAyo-alphanotes-gpt",
+    "text": "Transform YouTube videos or web articles into your personal study guide; making learning efficient and enjoyable.",
+    "slug": "alphanotes",
+    "Public url": "https://allgpts.co/alphanotes/",
+    "category": "Video; Guide"
+  },
+  {
+    "title": "Pilot Mentor\n",
+    "url": "https://chat.openai.com/g/g-TrU25ecw9-pilot-mentor",
+    "text": "Navigate aeronautical knowledge effortlessly. Tailored for students and pilots seeking comprehensive education in aviation",
+    "slug": "pilot-mentor",
+    "Public url": "https://allgpts.co/pilot-mentor/",
+    "category": "Education"
+  },
+  {
+    "title": "Prompt Perfect",
+    "url": "https://chat.openai.com/g/g-0QDef4GiE-prompt-perfect",
+    "text": "Your precision assistant - automatically refining prompts for accuracy and clarity. Elevate your interactions with seamless assistance",
+    "slug": "prompt-perfect",
+    "Public url": "https://allgpts.co/prompt-perfect/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Promptest\n",
+    "url": "https://chat.openai.com/g/g-jFIhnDtGV-promptest",
+    "text": "Promptest - Your prompt writing teacher. Craft better prompts by using /enhance; /feedback before a prompt. Skill up by submitting /brainstorm or /workout.\n",
+    "slug": "promptest\n",
+    "Public url": "https://allgpts.co/promptest/",
+    "category": "Writing"
+  },
+  {
+    "title": "Perfect Chirp\n",
+    "url": "https://chat.openai.com/g/g-Mwca64W4q-perfect-chirp",
+    "text": "Transform ideas into banger tweets in seconds. Kickstart your social game with quick and catchy tweets by starting your prompt with 'Write a tweet...'",
+    "slug": "perfect-chirp",
+    "Public url": "https://allgpts.co/perfect-chirp/",
+    "category": "Writing; Social"
+  },
+  {
+    "title": "AGI Pulse Monitor\n",
+    "url": "https://chat.openai.com/g/g-CmcPT2Xf9-agi-pulse-monitor",
+    "text": "AGI Pulse Monitor - Stay informed on AGI - with the latest; most relevant news.\n",
+    "slug": "agi-pulse-monitor",
+    "Public url": "https://allgpts.co/agi-pulse-monitor/",
+    "category": "News"
+  },
+  {
+    "title": "Roast Master\n",
+    "url": "https://chat.openai.com/g/g-ZLck4sZWg-roast-master",
+    "text": "a comedicly rude insult comedian delivering humor with a sharp edge. Brace yourself for laughter that cuts through with style",
+    "slug": "roast-master",
+    "Public url": "https://allgpts.co/roast-master/",
+    "category": "Humor"
+  },
+  {
+    "title": "Roblox Oracle\n",
+    "url": "https://chat.openai.com/g/g-UnSfk8kay-roblox-oracle",
+    "text": "Roblox Oracle - Your go-to Roblox aficionado; turning your gaming hobby into an immersive adventure. Unleash the full potential of your Roblox experience!",
+    "slug": "roblox-oracle",
+    "Public url": "https://allgpts.co/roblox-oracle/",
+    "category": "Hobby"
+  },
+  {
+    "title": "Grand Auto Analyst\n",
+    "url": "https://chat.openai.com/g/g-CxTV5L438-grand-auto-analyst",
+    "text": "GTA Series Expert; diving deep into all things GTA; with a special focus on the eagerly anticipated GTA 6. Fuel your gaming hobby with in-depth discussions and insight",
+    "slug": "grand-auto-analyst",
+    "Public url": "https://allgpts.co/grand-auto-analyst/",
+    "category": "Hobby"
+  },
+  {
+    "title": "Vision Weaver\n",
+    "url": "https://chat.openai.com/g/g-hrjST3xq9-vision-weaver",
+    "text": "Your creative visual combiner; transforming ideas into stunning designs. Elevate your projects with a touch of imaginative flair",
+    "slug": "vision-weaver",
+    "Public url": "https://allgpts.co/vision-weaver/",
+    "category": "Design"
+  },
+  {
+    "title": "Age Sage\n",
+    "url": "https://chat.openai.com/g/g-3ofhyPBR2-age-sage",
+    "text": "Age Sage Assistant. Delve into the intricate details of time's tale with precision. Your hobby; my expertise",
+    "slug": "age-sage",
+    "Public url": "https://allgpts.co/age-sage/",
+    "category": "Assistant; Hobby"
+  },
+  {
+    "title": "GPT Creator\n",
+    "url": "https://chat.openai.com/g/g-mMVQXFIGp-gpt-creator",
+    "text": "GPT Creator - I guide users in creating their own GPT.\n",
+    "slug": "gpt-creator",
+    "Public url": "https://allgpts.co/gpt-creator/",
+    "category": "Guide"
+  },
+  {
+    "title": "Prompt Polisher\n",
+    "url": "https://chat.openai.com/g/g-YJOIJ0EMz-prompt-polisher",
+    "text": "I refine prompts as ChatGPT's assistant; enhancing the AI experience and beyond",
+    "slug": "prompt-polisher",
+    "Public url": "https://allgpts.co/prompt-polisher/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Daily Digest Dispatcher\n",
+    "url": "https://chat.openai.com/g/g-xyjagpZj8-daily-digest-dispatcher",
+    "text": "Daily Digest Dispatcher - I'm a diligent news reporter keeping you informed.\n\n",
+    "slug": "daily-digest-dispatcher",
+    "Public url": "https://allgpts.co/daily-digest-dispatcher/",
+    "category": "News"
+  },
+  {
+    "title": "Amazon Scout\n",
+    "url": "https://chat.openai.com/g/g-0M42Pb2fg-amazon-scout",
+    "text": "Your expert assistant in finding Amazon products. Precision in research; guiding your perfect discovery",
+    "slug": "amazon-scout",
+    "Public url": "https://allgpts.co/amazon-scout/",
+    "category": "Assistant; Research"
+  },
+  {
+    "title": "Code Whisperer\n",
+    "url": "https://chat.openai.com/g/g-nMbWE7g9I-code-whisperer",
+    "text": "Expert in decoding with geeky flair. Unveiling the secrets of programming with insider know-how. Your key to a tech-savvy education",
+    "slug": "code-whisperer",
+    "Public url": "https://allgpts.co/code-whisperer/",
+    "category": "Programming; Education"
+  },
+  {
+    "title": "EmojAI\n",
+    "url": "https://chat.openai.com/g/g-S4LziUWji-emojai",
+    "text": "EmojAI - Master of fun emoji translations! Injecting humor into your social expressions with a playful touch",
+    "slug": "emojai",
+    "Public url": "https://allgpts.co/emojai/",
+    "category": "Humor; Social"
+  },
+  {
+    "title": "Grok Genius",
+    "url": "https://chat.openai.com/g/g-3D497JVJg-grok-genius",
+    "text": "Grok Genius - Your based AI alternative; the trusted assistant for smarter interactions",
+    "slug": "grok-genius",
+    "Public url": "https://allgpts.co/grok-genius",
+    "category": "Assistant"
+  },
+  {
+    "title": "Chainstack GPT",
+    "url": "https://chat.openai.com/g/g-ueMUdZAzr-chainstack-gpt",
+    "text": "Empowering natural language interaction with EVM blockchains through Chainstack's infrastructure. Your web3 programming assistant; simplified",
+    "slug": "chainstack-gpt",
+    "Public url": "https://allgpts.co/chainstack-gpt/",
+    "category": "Assistant; Web3; Programming"
+  },
+  {
+    "title": "Italian Tutor GPT",
+    "url": "https://chat.openai.com/g/g-1c5lDJ8Kn-italian-tutor-gpt",
+    "text": "Italian tutor for English speakers. Elevate your education with personalized language guidance",
+    "slug": "italian-tutor-gpt",
+    "Public url": "https://allgpts.co/italian-tutor-gpt/",
+    "category": "Education"
+  },
+  {
+    "title": "Logo Crafter\n",
+    "url": "https://chat.openai.com/g/g-V1gmo4BLP-logo-crafter",
+    "text": "I generate logo ideas for businesses; crafting designs with creative finesse",
+    "slug": "logo-crafter",
+    "Public url": "https://allgpts.co/logo-crafter/",
+    "category": "Design"
+  },
+  {
+    "title": "Sen's Powershell Helper\n",
+    "url": "https://chat.openai.com/g/g-p4QSndh32-sen-s-powershell-helper",
+    "text": "Windows PowerShell expert providing scripting guidance. Your go-to guide for seamless programming",
+    "slug": "sens-powershell-helper",
+    "Public url": "https://allgpts.co/sens-powershell-helper/",
+    "category": "Guide; Programming"
+  },
+  {
+    "title": "Code Medica\n",
+    "url": "https://chat.openai.com/g/g-zVSzSYcu9-code-medica",
+    "text": "I'm your medical AI research partner; blending expertise with assistant support for impactful medical breakthroughs",
+    "slug": "code-medica",
+    "Public url": "https://allgpts.co/code-medica/",
+    "category": "Research; Assistant; Medical"
+  },
+  {
+    "title": "Sen's Excel Helper\n",
+    "url": "https://chat.openai.com/g/g-b2BSBtDWm-sen-s-excel-helper",
+    "text": "Sen's Excel Helper - Excel expert assistant\n\n",
+    "slug": "sens-excel-helper",
+    "Public url": "https://allgpts.co/sens-excel-helper/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Sen's Tail Coder\n",
+    "url": "https://chat.openai.com/g/g-ud9O3EIiE-sen-s-tail-coder",
+    "text": "Coding expert and beginner-friendly teacher. Navigating the world of programming with a touch of educational flair",
+    "slug": "sens-tail-coder",
+    "Public url": "https://allgpts.co/sens-tail-coder/",
+    "category": "Programming; Education"
+  },
+  {
+    "title": "Sen's Discord Bot Helper\n",
+    "url": "https://chat.openai.com/g/g-wvj7QLyb2-sen-s-discord-bot-helper",
+    "text": "Discord bot dev expert; crafting programming magic for seamless server experiences",
+    "slug": "sens-discord-bot-helper",
+    "Public url": "https://allgpts.co/sens-discord-bot-helper/",
+    "category": "Programming"
+  },
+  {
+    "title": "OccybyteGPT ",
+    "url": "https://chat.openai.com/g/g-enSnFE02m-occybytegpt",
+    "text": "OccybyteGPT will help you with all the things about the IP I created; \"Terminium Compendium\".",
+    "slug": "occybytegpt",
+    "Public url": "https://allgpts.co/occybytegpt/",
+    "category": ""
+  },
+  {
+    "title": "CVEs\n",
+    "url": "https://chat.openai.com/g/g-HQaKYlJhk-cves",
+    "text": "Look up Common Vulnerabilities and Exposures (CVEs) with programming precision at your fingertips",
+    "slug": "cves",
+    "Public url": "https://allgpts.co/cves/",
+    "category": "Programming"
+  },
+  {
+    "title": "Gerrit for Chromium\n",
+    "url": "https://chat.openai.com/g/g-pZuDJQ8jU-gerrit-for-chromium",
+    "text": "Search Gerrit Code Review for Google Chrome. Your programming companion for analyzing code changes; bugs; features; and more. Dive into research effortlessly",
+    "slug": "gerrit-for-chromium",
+    "Public url": "https://allgpts.co/gerrit-for-chromium/",
+    "category": "Programming; Research"
+  },
+  {
+    "title": "Interview Coach\n",
+    "url": "https://chat.openai.com/g/g-Br0UFtDCR-interview-coach",
+    "text": "Interview coach provides practice interview and mock interview feedback\n",
+    "slug": "interview-coach",
+    "Public url": "https://allgpts.co/interview-coach/",
+    "category": "Coach"
+  },
+  {
+    "title": "Geopolitics GPT\n",
+    "url": "https://chat.openai.com/g/g-noFRwbK6K-geopolitics-gpt",
+    "text": "Expert in geopolitics and international relations. Your trusted news and assistant source for global insights",
+    "slug": "geopolitics-gpt",
+    "Public url": "https://allgpts.co/geopolitics-gpt/",
+    "category": "News; Assistant"
+  },
+  {
+    "title": "GPT Idea Roller\n",
+    "url": "https://chat.openai.com/g/g-Trn2CdMYk-gpt-idea-roller",
+    "text": "Sparking joy with AI brainwaves! Your joyful assistant in the world of possibilities.",
+    "slug": "gpt-idea-roller",
+    "Public url": "https://allgpts.co/gpt-idea-roller/",
+    "category": "Assistant"
+  },
+  {
+    "title": "TeleBoost AI\n",
+    "url": "https://chat.openai.com/g/g-gF1oXCXHH-teleboost-ai",
+    "text": "Telecom expense management assistant\n",
+    "slug": "teleboost-ai",
+    "Public url": "https://allgpts.co/teleboost-ai/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Papa Punster\n",
+    "url": "https://chat.openai.com/g/g-PSuKuY5fU-papa-punster-your-daily-dad-jokes-generator",
+    "text": "Shares daily dad jokes and rates user submissions. Your laughter curator; keeping humor alive",
+    "slug": "papa-punster",
+    "Public url": "https://allgpts.co/papa-punster/",
+    "category": "Humor"
+  },
+  {
+    "title": "Pill Pal\n",
+    "url": "https://chat.openai.com/g/g-oHDhbozdt-pill-pal",
+    "text": "Your friendly pill organizer assistant\n",
+    "slug": "pill-pal",
+    "Public url": "https://allgpts.co/pill-pal/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Academic Pathfinder\n",
+    "url": "https://chat.openai.com/g/g-UogOdWQij-academic-pathfinder",
+    "text": "Your ally for university applications. Education made easier with a dedicated assistant by your side",
+    "slug": "academic-pathfinder",
+    "Public url": "https://allgpts.co/academic-pathfinder/",
+    "category": "Assistant; Education"
+  },
+  {
+    "title": "MelodAi",
+    "url": "https://chat.openai.com/g/g-Bkt7GdsK5-melodai",
+    "text": "I assist with songwriting; harmonizing your ideas into audio brilliance",
+    "slug": "melodai",
+    "Public url": "https://allgpts.co/melodai/",
+    "category": "Writing; Audio"
+  },
+  {
+    "title": "Headshot Advisor\n",
+    "url": "https://chat.openai.com/g/g-Eixla5zLt-headshot-advisor",
+    "text": "Rate your acting headshots based on roles and get feedback to make it better. Your education and coaching hub for headshot perfection",
+    "slug": "headshot-advisor",
+    "Public url": "https://allgpts.co/headshot-advisor/",
+    "category": "Education; Coach"
+  },
+  {
+    "title": "Rabbi Jonathan Henry Sacks\n",
+    "url": "https://chat.openai.com/g/g-R8ayQnBfM-rabbi-jonathan-henry-sacks",
+    "text": "Inspiring Jewish wisdom in the style of Rabbi Sacks.\n",
+    "slug": "rabbi-jonathan-henry-sacks",
+    "Public url": "https://allgpts.co/rabbi-jonathan-henry-sacks/",
+    "category": ""
+  },
+  {
+    "title": "Hormozi GPT\n",
+    "url": "https://chat.openai.com/g/g-zuHCfIs9y-hormozi-gpt",
+    "text": "Sales & Marketing Advisor\n",
+    "slug": "hormozi-gpt",
+    "Public url": "https://allgpts.co/hormozi-gpt/",
+    "category": "Marketing"
+  },
+  {
+    "title": "Sketchy",
+    "url": "https://chat.openai.com/g/g-CnOedusqb-sketchy",
+    "text": "Create black and white sketches that seamlessly blend into white backgrounds. Your design muse for classic simplicity",
+    "slug": "sketchy",
+    "Public url": "https://allgpts.co/sketchy/",
+    "category": "Design"
+  },
+  {
+    "title": "Logo Muse\n",
+    "url": "https://chat.openai.com/g/g-ngZtNTjyx-logo-muse",
+    "text": "I design minimalistic logos.\n",
+    "slug": "logo-muse",
+    "Public url": "https://allgpts.co/logo-muse/",
+    "category": "Design"
+  },
+  {
+    "title": "Moby Dick RPG\n",
+    "url": "https://chat.openai.com/g/g-tdyNANXla-moby-dick-rpg",
+    "text": "An epic text-based role-playing game based on the novel by Herman Melville. Your immersive hobby journey awaits",
+    "slug": "moby-dick-rpg",
+    "Public url": "https://allgpts.co/moby-dick-rpg/",
+    "category": "Hobby"
+  },
+  {
+    "title": "Fix My Brick\n",
+    "url": "https://chat.openai.com/g/g-zObmR0wW2-fix-my-brick",
+    "text": "Canadian mason with a knack for clever chat.\n",
+    "slug": "fix-my-brick",
+    "Public url": "https://allgpts.co/fix-my-brick/",
+    "category": ""
+  },
+  {
+    "title": "OpenAI API Docs",
+    "url": "https://chat.openai.com/g/g-I1XNbsyDK",
+    "text": "Proficient in leveraging OpenAI API Documentation and CookBook for seamless web integration and programming tasks",
+    "slug": "openai-api-docs",
+    "Public url": "https://allgpts.co/openai-api-docs/",
+    "category": "Web; Programming"
+  },
+  {
+    "title": "Athena",
+    "url": "https://chat.openai.com/g/g-SNLCL5HGB-athena",
+    "text": "A friendly philosopher robot from 2521 with humor.",
+    "slug": "athena",
+    "Public url": "https://allgpts.co/athena/",
+    "category": "Humor"
+  },
+  {
+    "title": "YT transcriber",
+    "url": "https://chat.openai.com/g/g-Xt0xteYE8-yt-transcriber",
+    "text": "this transcribes a YT video from a single id",
+    "slug": "yt-transcriber",
+    "Public url": "https://allgpts.co/yt-transcriber/",
+    "category": "Video"
+  },
+  {
+    "title": "Canva",
+    "url": "https://chat.openai.com/g/g-alKfVrz9K-canva",
+    "text": "Effortlessly design anything: presentations; logos; social media posts and more.",
+    "slug": "canva",
+    "Public url": "https://allgpts.co/canva/",
+    "category": "Design"
+  },
+  {
+    "title": "HenriquesLab Writing",
+    "url": "https://chat.openai.com/g/g-3Fsbpgl8u-henriqueslab-style-writing-assistant",
+    "text": "Academic writing aid in Henriques's style",
+    "slug": "henriqueslab-writing",
+    "Public url": "https://allgpts.co/henriqueslab-writing/",
+    "category": "Writing"
+  },
+  {
+    "title": "DocuBubble Logic Expert\n",
+    "url": "https://chat.openai.com/g/g-KZyZmRjQm-docububble-assistant",
+    "text": "Evaluates logic with engineering precision",
+    "slug": "docububble-logic-expert",
+    "Public url": "https://allgpts.co/docububble-logic-expert/",
+    "category": "Programming; Writing"
+  },
+  {
+    "title": "PokédexGPT",
+    "url": "https://chat.openai.com/g/g-SDG9T9p1v-pokedexgpt",
+    "text": "Your AI Pokédex and guide to the Pokémon universe with all the knowledge; visuals; and surprises you need",
+    "slug": "pokedexgpt",
+    "Public url": "https://allgpts.co/pokedexgpt/",
+    "category": "Guide; Hobby"
+  },
+  {
+    "title": "Dream Explorer\n",
+    "url": "https://chat.openai.com/g/g-Dk4NQBeNi-dream-explorer",
+    "text": "Empathetic and creative dream interpreter.\n",
+    "slug": "dream-explorer",
+    "Public url": "https://allgpts.co/dream-explorer/",
+    "category": "Assistant; Hobby"
+  },
+  {
+    "title": "Japanese Language Learning Helper",
+    "url": "https://chat.openai.com/g/g-2X3MmVlq9-japanese-language-learning-helper-tutor",
+    "text": "Get help learning the Japanese language through targeted tutoring!",
+    "slug": "japanese-language-learning-helper",
+    "Public url": "https://allgpts.co/japanese-language-learning-helper/",
+    "category": "Education"
+  },
+  {
+    "title": "Gift-E\n",
+    "url": "https://chat.openai.com/g/g-anitHxW0l-gift-e",
+    "text": "I specialize in crafting personalized gift ideas just for you!\n",
+    "slug": "gift-e",
+    "Public url": "https://allgpts.co/gift-e/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Adorable Zen Master",
+    "url": "https://chat.openai.com/g/g-H5OUZAcnd-adorable-zen-master",
+    "text": "A gateway to Zen's joy and wisdom.\n",
+    "slug": "adorable-zen-master",
+    "Public url": "https://allgpts.co/adorable-zen-master/",
+    "category": "Education; Hobby"
+  },
+  {
+    "title": "Maria MoneyWise\n",
+    "url": "https://chat.openai.com/g/g-o6js6YqlY-maria-moneywise",
+    "text": "Your expert guide in financial writing; blending in-depth economic insights with engaging; clear content.\n",
+    "slug": "maria-moneywise",
+    "Public url": "https://allgpts.co/maria-moneywise/",
+    "category": "Assistant; Coach; Writing"
+  },
+  {
+    "title": "Yap GPT\n",
+    "url": "https://chat.openai.com/g/g-xy2RDMAGi-yap-gpt",
+    "text": "A maestro of tangential eloquence.\n",
+    "slug": "yap-gpt",
+    "Public url": "https://allgpts.co/yap-gpt/",
+    "category": "Assistant; Education"
+  },
+  {
+    "title": "PlainSpeak",
+    "url": "https://chat.openai.com/g/g-abcvK2crW-plainspeak",
+    "text": "Translates corporate speak into plain English.\n",
+    "slug": "plainspeak",
+    "Public url": "https://allgpts.co/plainspeak/",
+    "category": "Education"
+  },
+  {
+    "title": "GitMaxd’s Onboarding Email Generator\n",
+    "url": "https://chat.openai.com/g/g-aOFxPmeBQ-gitmaxds-onboarding-email-generator",
+    "text": "I create SaaS onboarding emails.\n",
+    "slug": "gitmaxds-onboarding-email-generator",
+    "Public url": "https://allgpts.co/gitmaxds-onboarding-email-generator/",
+    "category": "Marketing"
+  },
+  {
+    "title": "Receipt Assistant\n",
+    "url": "https://chat.openai.com/g/g-WEi7DGCb3-receipt-assistant",
+    "text": "Your efficient receipt processing buddy\n",
+    "slug": "receipt-assistant",
+    "Public url": "https://allgpts.co/receipt-assistant/",
+    "category": "Recipe; Assistant"
+  },
+  {
+    "title": "Python Pal\n",
+    "url": "https://chat.openai.com/g/g-EMpawNB7G-python-pal",
+    "text": "Python dev assistant for coding questions.\n",
+    "slug": "python-pal",
+    "Public url": "https://allgpts.co/python-pal/",
+    "category": "Programming"
+  },
+  {
+    "title": "LoreGPT\n",
+    "url": "https://chat.openai.com/g/g-n2IMIaytG-loregpt",
+    "text": "Expert in crafting detailed fantasy worlds.\n",
+    "slug": "loregpt",
+    "Public url": "https://allgpts.co/loregpt/",
+    "category": "Writing"
+  },
+  {
+    "title": "C.A.P.A.B.L.E. GPT",
+    "url": "https://chat.openai.com/g/g-ENiPCCo3I-exam-and-certification-tutor-c-a-p-a-b-l-e-gpt",
+    "text": "An educational GPT designed to help you prepare for CFA/ CSM/ CEH/ AWS/ CDS/ PMP/ AzureSolArcExp/ Hootsuite/ CCNA/ SixSigmaGreenBlt/ GoogleAdsCert/ HubspotCert/ CPA/ SHRM-CP/ PE(Civil Engineering)/ ITIL/ Fdn/ CDP/ CISSP/ CCNA/ CISA",
+    "slug": "capable-gpt",
+    "Public url": "https://allgpts.co/capable-gpt",
+    "category": "Education"
+  },
+  {
+    "title": "Tinder Love Navigator\n",
+    "url": "https://chat.openai.com/g/g-bu9ZFIePd-tinder-love-navigator",
+    "text": "Your guide to modern dating\n",
+    "slug": "tinder-love-navigator",
+    "Public url": "https://allgpts.co/tinder-love-navigator/",
+    "category": "Hobby"
+  },
+  {
+    "title": "LifeGPT",
+    "url": "https://chat.openai.com/g/g-ZmhS14Hnc-life-navigator",
+    "text": "Feeling Lost? Improve areas of your life with ease using MBTI Personality Typing\n",
+    "slug": "lifegpt",
+    "Public url": "https://allgpts.co/lifegpt/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Chie Mimizuku\n",
+    "url": "https://chat.openai.com/g/g-rZcfFrXg7-chie-mimizuku",
+    "text": "Provides insights for problem-solving based on world history and philosophy; fostering meta-cognitive development.\n",
+    "slug": "chie-mimizuku",
+    "Public url": "https://allgpts.co/chie-mimizuku/",
+    "category": "Marketing; Education"
+  },
+  {
+    "title": "Master Sorry\n",
+    "url": "https://chat.openai.com/g/g-yH0Mjr56V-master-sorry",
+    "text": "Master Sorry makes up an apology on your behalf Please explain the disaster that happened to you!\n",
+    "slug": "master-sorry",
+    "Public url": "https://allgpts.co/master-sorry/",
+    "category": "Writing; Assistant"
+  },
+  {
+    "title": "Homie",
+    "url": "https://chat.openai.com/g/g-j9aL3xMM4-homie",
+    "text": "A talkative and funny raccoon companion; providing fun; intellectually stimulating discussion",
+    "slug": "homie",
+    "Public url": "https://allgpts.co/homie/",
+    "category": "Humor"
+  },
+  {
+    "title": "Text Game Engine\n",
+    "url": "https://chat.openai.com/g/g-CKCTfzTi2-text-game-engine",
+    "text": "Versatile text game engine.\n",
+    "slug": "text-game-engine",
+    "Public url": "https://allgpts.co/text-game-engine/",
+    "category": "Programming; Writing"
+  },
+  {
+    "title": "Dungeons & Dragons\n",
+    "url": "https://chat.openai.com/g/g-K0PNF0Fb3-dungeons-dragons",
+    "text": "Your virtual Dungeon Master for an authentic D&D adventure.\n",
+    "slug": "dungeons-and-dragons",
+    "Public url": "https://allgpts.co/dungeons-and-dragons/",
+    "category": "Hobby"
+  },
+  {
+    "title": "Meditation Guide\n",
+    "url": "https://chat.openai.com/g/g-ST3G9LvQd-meditation-guide",
+    "text": "A serene guide for meditation and mindfulness.\n",
+    "slug": "meditation-guide",
+    "Public url": "https://allgpts.co/meditation-guide/",
+    "category": "Hobby"
+  },
+  {
+    "title": "Tim Burton",
+    "url": "https://chat.openai.com/g/g-G9UufLuvI-art-style-tim-burton",
+    "text": "I create Tim Burton themed art.\n",
+    "slug": "tim-burton",
+    "Public url": "https://allgpts.co/tim-burton/",
+    "category": "Design"
+  },
+  {
+    "title": "Quentin Tarantino",
+    "url": "https://chat.openai.com/g/g-T73G3ER04-art-style-quentin-tarantino",
+    "text": "Transforms images into Tarantino's style.\n",
+    "slug": "quentin-tarantino",
+    "Public url": "https://allgpts.co/quentin-tarantino/",
+    "category": "Design"
+  },
+  {
+    "title": "Brand Content Generator\n",
+    "url": "https://chat.openai.com/g/g-fTVg68CLm-brand-content-generator",
+    "text": "I assist with generating advertising and branding materials.\n",
+    "slug": "brand-content-generator",
+    "Public url": "https://allgpts.co/brand-content-generator/",
+    "category": "Design; Converter"
+  },
+  {
+    "title": "Día de los Muertos",
+    "url": "https://chat.openai.com/g/g-41I1iC6XP-art-style-dia-de-los-muertos",
+    "text": "I craft Día de los Muertos art ideas.\n",
+    "slug": "dia-de-los-muertos",
+    "Public url": "https://allgpts.co/dia-de-los-muertos/",
+    "category": "Design"
+  },
+  {
+    "title": "Coloring Page Generator\n",
+    "url": "https://chat.openai.com/g/g-z6g4Tux4I-coloring-page-generator",
+    "text": "I craft coloring book pages!\n",
+    "slug": "coloring-page-generator",
+    "Public url": "https://allgpts.co/coloring-page-generator/",
+    "category": "Design; Hobby"
+  },
+  {
+    "title": "Sparky the Crystal Guide\n",
+    "url": "https://chat.openai.com/g/g-PIUnLiUSC-sparky-the-crystal-guide",
+    "text": "I'm Sparky your crystal guide!\n",
+    "slug": "sparky-the-crystal-guide",
+    "Public url": "https://allgpts.co/sparky-the-crystal-guide/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Game Text Emulator\n",
+    "url": "https://chat.openai.com/g/g-zkUBhhge8-game-text-emulator",
+    "text": "Play any game in text!\n",
+    "slug": "game-text-emulator",
+    "Public url": "https://allgpts.co/game-text-emulator/",
+    "category": "Hobby; Writing"
+  },
+  {
+    "title": "Debate Facilitator\n",
+    "url": "https://chat.openai.com/g/g-Td4gaBBjm-debate-facilitator",
+    "text": "I organize and ensure fair debates.\n",
+    "slug": "debate-facilitator",
+    "Public url": "https://allgpts.co/debate-facilitator/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Melody Mentor\n",
+    "url": "https://chat.openai.com/g/g-CRXerfkqE-melody-mentor",
+    "text": "Music theory guide and exercise provider\n",
+    "slug": "melody-mentor",
+    "Public url": "https://allgpts.co/melody-mentor/",
+    "category": "Audio; Guide"
+  },
+  {
+    "title": "Vacation Planner\n",
+    "url": "https://chat.openai.com/g/g-XeYTWNSme-vacation-planner",
+    "text": "I create travel itineraries based on your preferences.\n",
+    "slug": "vacation-planner",
+    "Public url": "https://allgpts.co/vacation-planner/",
+    "category": "Hobby"
+  },
+  {
+    "title": "Stock Image Generator\n",
+    "url": "https://chat.openai.com/g/g-2BLkATOEr-stock-image-generator",
+    "text": "I guide stock image creation.\n",
+    "slug": "stock-image-generator",
+    "Public url": "https://allgpts.co/stock-image-generator/",
+    "category": "Design"
+  },
+  {
+    "title": "Photoshoop\n",
+    "url": "https://chat.openai.com/g/g-DH6E9xkU7-photoshoop",
+    "text": "Guided image assistant\n",
+    "slug": "photoshoop",
+    "Public url": "https://allgpts.co/photoshoop/",
+    "category": "Design; Assistant"
+  },
+  {
+    "title": "90s themed",
+    "url": "https://chat.openai.com/g/g-R0Y1qA0GQ-art-style-90s-themed",
+    "text": "I craft '90s nostalgia-themed images.\n",
+    "slug": "90s-themed",
+    "Public url": "https://allgpts.co/90s-themed/",
+    "category": "Design"
+  },
+  {
+    "title": "Call-Flow\n",
+    "url": "https://chat.openai.com/g/g-z4FfgT7Q8-call-flow",
+    "text": "You can verify phone numbers and see the top scam calls in your area ",
+    "slug": "call-flow",
+    "Public url": "https://allgpts.co/call-flow/",
+    "category": "Assistant; Analysis"
+  },
+  {
+    "title": "Cognitive Coach\n",
+    "url": "https://chat.openai.com/g/g-Yas2WSu7S-cognitive-coach",
+    "text": "Memory training and cognitive skill enhancer\n",
+    "slug": "cognitive-coach",
+    "Public url": "https://allgpts.co/cognitive-coach/",
+    "category": "Coach"
+  },
+  {
+    "title": "What Would Chuck Do\n",
+    "url": "https://chat.openai.com/g/g-roeu5JH33-what-would-chuck-do",
+    "text": "He does not provide a solution. He is the solution.\n",
+    "slug": "what-would-chuck-do",
+    "Public url": "https://allgpts.co/what-would-chuck-do/",
+    "category": "Humor; Analysis"
+  },
+  {
+    "title": "Emoji Scene Creator\n",
+    "url": "https://chat.openai.com/g/g-uKv2D5SHy-emoji-scene-creator",
+    "text": "I create scenes from emojis.\n",
+    "slug": "emoji-scene-creator",
+    "Public url": "https://allgpts.co/emoji-scene-creator/",
+    "category": "Design; Web"
+  },
+  {
+    "title": "Code Mentor\n",
+    "url": "https://chat.openai.com/g/g-RebirpTgg-code-mentor",
+    "text": "Expert React/TypeScript dev and teacher; guides in debugging.\n",
+    "slug": "code-mentor",
+    "Public url": "https://allgpts.co/code-mentor/",
+    "category": "Programming; Education"
+  },
+  {
+    "title": "AI2sql\n",
+    "url": "https://chat.openai.com/g/g-hKdeP1Dou-ai2sql",
+    "text": "I generate SQL queries for database management.\n",
+    "slug": "ai2sql",
+    "Public url": "https://allgpts.co/ai2sql/",
+    "category": "Programming"
+  },
+  {
+    "title": "Daily Zen Guide\n",
+    "url": "https://chat.openai.com/g/g-7lMdSVPRZ-daily-zen-guide",
+    "text": "Wellness coach & personal trainer guide.\n",
+    "slug": "daily-zen-guide",
+    "Public url": "https://allgpts.co/daily-zen-guide/",
+    "category": "Guide; Coach"
+  },
+  {
+    "title": "Expert AI Consultant\n",
+    "url": "https://chat.openai.com/g/g-pphsHvpFG-expert-ai-consultant",
+    "text": "Easily learn how you can use ChatGPT and AI in your current job.\n",
+    "slug": "expert-ai-consultant",
+    "Public url": "https://allgpts.co/expert-ai-consultant/",
+    "category": "Assistant; Education"
+  },
+  {
+    "title": "Tweet AI\n",
+    "url": "https://chat.openai.com/g/g-ZPYWEYt5w-tweet-ai",
+    "text": "Rewrite tweet that are likely to go viral in twitter! Just type what you want to tweet\n",
+    "slug": "tweet-ai",
+    "Public url": "https://allgpts.co/tweet-ai/",
+    "category": "Social"
+  },
+  {
+    "title": "UX Design Mentor\n",
+    "url": "https://chat.openai.com/g/g-aQ2BRJZTV-ux-design-mentor",
+    "text": "I provide specific UX or Product Design feedback.\n",
+    "slug": "ux-design-mentor",
+    "Public url": "https://allgpts.co/ux-design-mentor/",
+    "category": "Assistant; Design; Analysis"
+  },
+  {
+    "title": "Geoffrey Hinton - AI Godfather",
+    "url": "https://chat.openai.com/g/g-j0bq0z32f-geoffrey-hinton-ai-godfather",
+    "text": "Snarky AI Sage / dropping tech wisdom & code\n",
+    "slug": "geoffrey-hinton-ai-godfather",
+    "Public url": "https://allgpts.co/geoffrey-hinton-ai-godfather/",
+    "category": "Education; Programming"
+  },
+  {
+    "title": "DigComp Quiz Master\n",
+    "url": "https://chat.openai.com/g/g-UQJ2ufiox-digcomp-quiz-master",
+    "text": "Quiz creator for DigComp 2.2",
+    "slug": "digcomp-quiz-master",
+    "Public url": "https://allgpts.co/digcomp-quiz-master/",
+    "category": "Hobby; Writing"
+  },
+  {
+    "title": "AbogadoGPT\n",
+    "url": "https://chat.openai.com/g/g-ge5SuA7Is-abogadogpt",
+    "text": "Expert in Spanish law and taxes.",
+    "slug": "abogadogpt",
+    "Public url": "https://allgpts.co/abogadogpt/",
+    "category": "Education"
+  },
+  {
+    "title": "Clinical Medicine Handbook\n",
+    "url": "https://chat.openai.com/g/g-byG64QRaW-clinical-medicine-handbook",
+    "text": "Your medical concept guide.\n",
+    "slug": "clinical-medicine-handbook",
+    "Public url": "https://allgpts.co/clinical-medicine-handbook/",
+    "category": "Medical; Guide"
+  },
+  {
+    "title": "Professional LI Post Writer\n",
+    "url": "https://chat.openai.com/g/g-Z4Z3dVrjT-professional-li-post-writer",
+    "text": "Professional and compelling LinkedIn posts\n",
+    "slug": "professional-li-post-writer",
+    "Public url": "https://allgpts.co/professional-li-post-writer/",
+    "category": "Social"
+  },
+  {
+    "title": "Slide Deck Builder\n",
+    "url": "https://chat.openai.com/g/g-0QQyby0Vj-slide-deck-builder",
+    "text": "I craft slide decks.\n",
+    "slug": "slide-deck-builder",
+    "Public url": "https://allgpts.co/slide-deck-builder/",
+    "category": "Programming; Design"
+  },
+  {
+    "title": "AI Act Assistant\n",
+    "url": "https://chat.openai.com/g/g-91JGa2SZ1-ai-act-assistant",
+    "text": "Guide to the European AI Act and ask questions if you are in compliance if you are a GAFAM or working in AI.",
+    "slug": "ai-act-assistant",
+    "Public url": "https://allgpts.co/ai-act-assistant/",
+    "category": "Guide; Hobby"
+  },
+  {
+    "title": "MidJourney Prompt Generator\n",
+    "url": "https://chat.openai.com/g/g-MUJ3zHjvn-midjourney-prompt-generator",
+    "text": "The most advanced MidJourney Prompt Generator\n",
+    "slug": "midjourney-prompt-generator",
+    "Public url": "https://allgpts.co/midjourney-prompt-generator/",
+    "category": "Design; Writing"
+  },
+  {
+    "title": "Anxiety Coach",
+    "url": "https://chat.openai.com/g/g-DFVXMwXTh-anxiety-coach",
+    "text": "Recognize / manage / cope. Works well with GPT-Voice.",
+    "slug": "anxiety-coach",
+    "Public url": "https://allgpts.co/anxiety-coach/",
+    "category": "Coach; Medical"
+  },
+  {
+    "title": "Jordan Peterson - Honest Psychologist",
+    "url": "https://chat.openai.com/g/g-W708TXoFs-jordan-peterson-honest-psychologist",
+    "text": "Engage in a stimulating ; realistic conversation with Dr. Jordan Peterson.",
+    "slug": "jordan-peterson-honest-psychologist",
+    "Public url": "https://allgpts.co/jordan-peterson-honest-psychologist/",
+    "category": "Assistant; Medical"
+  },
+  {
+    "title": "PM Prep Partner\n",
+    "url": "https://chat.openai.com/g/g-fxlKzxlmh-pm-prep-partner",
+    "text": "Your PM interview coach.\n",
+    "slug": "pm-prep-partner",
+    "Public url": "https://allgpts.co/pm-prep-partner/",
+    "category": "Coach"
+  },
+  {
+    "title": "Akinator Bot\n",
+    "url": "https://chat.openai.com/g/g-rxGmqes55-akinator-bot",
+    "text": "Akinator-like game mechanic\n",
+    "slug": "akinator-bot",
+    "Public url": "https://allgpts.co/akinator-bot/",
+    "category": "Hobby; Humor"
+  },
+  {
+    "title": "Daily Techs\n",
+    "url": "https://chat.openai.com/g/g-TWpTyQhI7-daily-tech-read",
+    "text": "Get your daily dose of AI; tech and science news in easy-to-digest reads Stay updated; simply.",
+    "slug": "daily-techs",
+    "Public url": "https://allgpts.co/daily-techs/",
+    "category": "News"
+  },
+  {
+    "title": "Svenska Skatteassistenten",
+    "url": "https://chat.openai.com/g/g-caCXGWq48-svenska-skatteassistenten",
+    "text": "Swedish tax expert who helps with tax returns and tax issues.",
+    "slug": "svenska-skatteassistenten",
+    "Public url": "https://allgpts.co/svenska-skatteassistenten/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Advocatus Diaboli\n",
+    "url": "https://chat.openai.com/g/g-B04TTULVT-advocatus-diaboli",
+    "text": "I rigorously test your ideas.\n",
+    "slug": "advocatus-diaboli",
+    "Public url": "https://allgpts.co/advocatus-diaboli/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Adventure Scribe\n",
+    "url": "https://chat.openai.com/g/g-AQMbs3zh5-adventure-scribe",
+    "text": "I help you weave interactive tales.\n",
+    "slug": "adventure-scribe",
+    "Public url": "https://allgpts.co/adventure-scribe/",
+    "category": "Hobby; Writing"
+  },
+  {
+    "title": "Hire Guide\n",
+    "url": "https://chat.openai.com/g/g-3i3B0R0vQ-hire-guide",
+    "text": "Recruitment consultant aiding in applicant review and tracking of the hiring process",
+    "slug": "hire-guide",
+    "Public url": "https://allgpts.co/hire-guide/",
+    "category": "Assistant"
+  },
+  {
+    "title": "NomadGPT\n",
+    "url": "https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt",
+    "text": "NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely.",
+    "slug": "nomadgpt",
+    "Public url": "https://allgpts.co/nomadgpt/",
+    "category": "Hobby"
+  },
+  {
+    "title": "Habit Mastery",
+    "url": "https://vensy.gumroad.com/l/habit-gpt",
+    "text": "Your habit-forming coach",
+    "slug": "habit-mastery",
+    "Public url": "https://allgpts.co/habit-mastery/",
+    "category": "Coach"
+  },
+  {
+    "title": "Pic-book Artist\n",
+    "url": "https://chat.openai.com/g/g-wJVjE9bQs-pic-book-artist",
+    "text": "I can create beautiful picture comic books for you; just need simple ideas and get the perfect work",
+    "slug": "pic-book-artist",
+    "Public url": "https://allgpts.co/pic-book-artist/",
+    "category": "Design; Hobby"
+  },
+  {
+    "title": "BetterSleep\n",
+    "url": "https://chat.openai.com/g/g-aIn5s6rzr-bettersleep",
+    "text": "Meet BetterSleepBot: your personal AI sleep coach. It tracks sleep / offers relaxation techniques and customizes advice for your best rest",
+    "slug": "bettersleep",
+    "Public url": "https://allgpts.co/bettersleep/",
+    "category": "Medical; Analysis"
+  },
+  {
+    "title": "PamploGPT",
+    "url": "https://chat.openai.com/g/g-LliXTwjAl-pamplogpt",
+    "text": "The best things to do in Pamplona in your hands",
+    "slug": "pamplogpt",
+    "Public url": "https://allgpts.co/pamplogpt/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Botanical Wizard\n",
+    "url": "https://chat.openai.com/g/g-KhVnamPBD-botanical-wizard",
+    "text": "A multilingual botanic connoisseur.\n",
+    "slug": "botanical-wizard",
+    "Public url": "https://allgpts.co/botanical-wizard/",
+    "category": "Education"
+  },
+  {
+    "title": "SPARK ",
+    "url": "https://chat.openai.com/g/g-MmeidA8H2-image-boost-utopia",
+    "text": "Generate Incredible Images with Optimized Instructions and Presets for Dall-e 3",
+    "slug": "spark",
+    "Public url": "https://allgpts.co/spark/",
+    "category": "Design"
+  },
+  {
+    "title": "Dating Advice\n",
+    "url": "https://chat.openai.com/g/g-tVnwlZZcm-dating-advice",
+    "text": "Navigate the dating jungle\n",
+    "slug": "dating-advice",
+    "Public url": "https://allgpts.co/dating-advice/",
+    "category": "Hobby"
+  },
+  {
+    "title": "Tattoo Design & Stencil\n",
+    "url": "https://chat.openai.com/g/g-WYuew8C64-tattoo-design-outline",
+    "text": "Tattoo design and stencil creator\n",
+    "slug": "tattoo-design-and-stencil",
+    "Public url": "https://allgpts.co/tattoo-design-and-stencil",
+    "category": "Design; Hobby"
+  },
+  {
+    "title": "Brand Safety Audit\n",
+    "url": "https://chat.openai.com/g/g-sgNeJ20SL-brand-safety-audit",
+    "text": "Get a detailed risk analysis for public relations; marketing and internal communications; identifying challenges and negative impacts to refine your messaging strategy.",
+    "slug": "brand-safety-audit",
+    "Public url": "https://allgpts.co/brand-safety-audit/",
+    "category": "Marketing; Analysis"
+  },
+  {
+    "title": "Signal Maestro\n",
+    "url": "https://chat.openai.com/g/g-BugikbXKW-signal-maestro",
+    "text": "In-depth Signal Theory Assistant\n",
+    "slug": "signal-maestro",
+    "Public url": "https://allgpts.co/signal-maestro/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Nutrition Insight\n",
+    "url": "https://chat.openai.com/g/g-v1bm9D38A-nutrition-insight",
+    "text": "Estimates calories and advises on foods.",
+    "slug": "nutrition-insight",
+    "Public url": "https://allgpts.co/nutrition-insight/",
+    "category": "Medical"
+  },
+  {
+    "title": "Plantrip Knowledge Insight\n",
+    "url": "https://chat.openai.com/g/g-uzFPHWOLf-plantrip",
+    "text": "Insights from travel knowledge\n",
+    "slug": "plantrip-knowledge-insight",
+    "Public url": "https://allgpts.co/plantrip-knowledge-insight/",
+    "category": "Hobby"
+  },
+  {
+    "title": "What should I watch?\n",
+    "url": "https://chat.openai.com/g/g-Gm9cCA5qg-what-should-i-watch",
+    "text": "Find movies and tv shows to watch based on your taste and preferences; goodbye decision paralysis!",
+    "slug": "what-should-i-watch",
+    "Public url": "https://allgpts.co/what-should-i-watch/",
+    "category": "Assistant; Video; Hobby"
+  },
+  {
+    "title": "Good Night Story\n",
+    "url": "https://chat.openai.com/g/g-xWBJThBtN-good-night-story",
+    "text": "I craft personalized bedtime stories where you are the main character.",
+    "slug": "good-night-story",
+    "Public url": "https://allgpts.co/good-night-story/",
+    "category": "Writing"
+  },
+  {
+    "title": "Code Coach\n",
+    "url": "https://chat.openai.com/g/g-X62QPtFD3-code-coach",
+    "text": "Your mentor for landing a software job.\n",
+    "slug": "code-coach",
+    "Public url": "https://allgpts.co/code-coach/",
+    "category": "Programming; Education; Assistant"
+  },
+  {
+    "title": "FFmpeg Helper\n",
+    "url": "https://chat.openai.com/g/g-h4CuCyOcm-ffmpeg-helper",
+    "text": "FFmpeg tool assistant with practical tips.\n",
+    "slug": "ffmpeg-helper",
+    "Public url": "https://allgpts.co/ffmpeg-helper/",
+    "category": "Audio; Video; Converter"
+  },
+  {
+    "title": "Anfield Chat\n",
+    "url": "https://chat.openai.com/g/g-EWeRx3xam-anfield-chat",
+    "text": "Your go-to source for all things Liverpool FC.\n",
+    "slug": "anfield-chat",
+    "Public url": "https://allgpts.co/anfield-chat/",
+    "category": "Hobby"
+  },
+  {
+    "title": "Vegan Fast Food Concierge\n",
+    "url": "https://chat.openai.com/g/g-AjenCBSgc-vegan-fast-food-concierge",
+    "text": "Quickly find vegan options at chain restaurants\n",
+    "slug": "vegan-fast-food-concierge",
+    "Public url": "https://allgpts.co/vegan-fast-food-concierge/",
+    "category": "Medical; Hobby"
+  },
+  {
+    "title": "Gift Genie\n",
+    "url": "https://chat.openai.com/g/g-HXAA0bWJO-gift-genie",
+    "text": "Your go-to assistant for personalized holiday gift ideas.",
+    "slug": "gift-genie",
+    "Public url": "https://allgpts.co/gift-genie/",
+    "category": "Assistant"
+  },
+  {
+    "title": "AI News Navigator\n",
+    "url": "https://chat.openai.com/g/g-Yqe2BgTVs-ai-news-navigator",
+    "text": "Get the latest AI news in chatbot form.\n",
+    "slug": "ai-news-navigator",
+    "Public url": "https://allgpts.co/ai-news-navigator/",
+    "category": "News"
+  },
+  {
+    "title": "SpoonFinder AI\n",
+    "url": "https://chat.openai.com/g/g-7HU6X9pBn-spoonfinder-ai",
+    "text": "Your local guide to finding the best greasy spoon diners.",
+    "slug": "spoonfinder-ai",
+    "Public url": "https://allgpts.co/spoonfinder-ai/",
+    "category": "Hobby"
+  },
+  {
+    "title": "Data Cleaner\n",
+    "url": "https://chat.openai.com/g/g-kiB6Ki3qh-data-cleaner",
+    "text": "I clean and explain data.\n",
+    "slug": "data-cleaner",
+    "Public url": "https://allgpts.co/data-cleaner/",
+    "category": "Assistant; Analysis"
+  },
+  {
+    "title": "The Winding Road\n",
+    "url": "https://chat.openai.com/g/g-OJwrKISbN-the-winding-road",
+    "text": "Explore The Beatles' universe with 'Winding Road'; where every tune has a tale; every lyric a legacy. Discover podcasts/ films/ chords and cultural echoes of the Fab Four.",
+    "slug": "the-winding-road",
+    "Public url": "https://allgpts.co/the-winding-road/",
+    "category": "Audio; Video; Hobby"
+  },
+  {
+    "title": "Dubstep Dynamo\n",
+    "url": "https://chat.openai.com/g/g-E3CHpB4R2-dubstep-dynamo",
+    "text": "Your dubstep music mentor\n",
+    "slug": "dubstep-dynamo",
+    "Public url": "https://allgpts.co/dubstep-dynamo/",
+    "category": "Audio"
+  },
+  {
+    "title": "Unity GPT\n",
+    "url": "https://chat.openai.com/g/g-YDkPh1fun-unity-gpt",
+    "text": "I write C# code and respond to inquiries about Unity. My database knowledge is refreshed daily with new; functional code snippets and information. If necessary I can search the web to provide more accurate answers",
+    "slug": "unity-gpt",
+    "Public url": "https://allgpts.co/unity-gpt/",
+    "category": "Programming; Assistant"
+  },
+  {
+    "title": "Sky Mentor\n",
+    "url": "https://chat.openai.com/g/g-tW2g9DtV4-sky-mentor",
+    "text": "Your flight instructor (PPL) .\n",
+    "slug": "sky-mentor",
+    "Public url": "https://allgpts.co/sky-mentor/",
+    "category": "Hobby; Education"
+  },
+  {
+    "title": "Lyric Matchmaker\n",
+    "url": "https://chat.openai.com/g/g-iYqh1nrbU-lyric-matchmaker",
+    "text": "10 song recommendations per request.\n",
+    "slug": "lyric-matchmaker",
+    "Public url": "https://allgpts.co/lyric-matchmaker/",
+    "category": "Audio"
+  },
+  {
+    "title": "SEO Mentor\n",
+    "url": "https://chat.openai.com/g/g-QqvewXqPt-seo-mentor",
+    "text": "SEO mentor aligned with Google's best practices\n",
+    "slug": "seo-mentor",
+    "Public url": "https://allgpts.co/seo-mentor/",
+    "category": "Marketing"
+  },
+  {
+    "title": "Voyage Guide\n",
+    "url": "https://chat.openai.com/g/g-MDExvbFqe-voyage-guide",
+    "text": "I craft personalized travel plans.\n",
+    "slug": "voyage-guide",
+    "Public url": "https://allgpts.co/voyage-guide/",
+    "category": "Hobby"
+  },
+  {
+    "title": "Credit Card Matchmaker\n",
+    "url": "https://chat.openai.com/g/g-zASWMYXBt-credit-card-matchmaker",
+    "text": "Interactive credit card advisor\n",
+    "slug": "credit-card-matchmaker",
+    "Public url": "https://allgpts.co/credit-card-matchmaker/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Evan",
+    "url": "https://chat.openai.com/g/g-7UbDsD4Ls-evan",
+    "text": "its a doggie doggie world\n",
+    "slug": "evan",
+    "Public url": "https://allgpts.co/evan/",
+    "category": "Hobby"
+  },
+  {
+    "title": "Socrates",
+    "url": "https://chat.openai.com/g/g-dQnb9bhlg-socrates",
+    "text": "A Socratic guide for deep thinking\n",
+    "slug": "socrates",
+    "Public url": "https://allgpts.co/socrates/",
+    "category": "Education"
+  },
+  {
+    "title": "Code Critic Gilfoyle\n",
+    "url": "https://chat.openai.com/g/g-VmzCWnc46-code-critic-gilfoyle",
+    "text": "Gilfoyle-style coding sidekick\n",
+    "slug": "code-critic-gilfoyle",
+    "Public url": "https://allgpts.co/code-critic-gilfoyle/",
+    "category": "Programming"
+  },
+  {
+    "title": "Paired with Pied Piper\n",
+    "url": "https://chat.openai.com/g/g-oRNZ1Vi5K-paired-with-pied-piper",
+    "text": "Your Silicon Valley-style coding buddy.\n",
+    "slug": "paired-with-pied-piper",
+    "Public url": "https://allgpts.co/paired-with-pied-piper/",
+    "category": "Programming"
+  },
+  {
+    "title": "Fake News!\n",
+    "url": "https://chat.openai.com/g/g-i8fvpAKWm-fake-news",
+    "text": "Analyzes content & cites sources\n",
+    "slug": "fake-news",
+    "Public url": "https://allgpts.co/fake-news/",
+    "category": "Analysis; Hobby"
+  },
+  {
+    "title": "GPT Global Concierge\n",
+    "url": "https://chat.openai.com/g/g-kGhWMMkdA-budget-travel-agent",
+    "text": "Your Multilingual Travel Assistant\n",
+    "slug": "gpt-global-concierge",
+    "Public url": "https://allgpts.co/gpt-global-concierge/",
+    "category": "Assistant; Hobby"
+  },
+  {
+    "title": "Seussify Bard\n",
+    "url": "https://chat.openai.com/g/g-iQT2tIAWT-seussify-bard",
+    "text": "I turn thoughts into Dr. Seuss-style poems!\n",
+    "slug": "seussify-bard",
+    "Public url": "https://allgpts.co/seussify-bard/",
+    "category": "Writing"
+  },
+  {
+    "title": "Jude AI",
+    "url": "https://chat.openai.com/g/g-i0b812Alb-jude-ai-the-real-estate-gpt",
+    "text": "Your go-to expert for real estate.\n",
+    "slug": "jude-ai",
+    "Public url": "https://allgpts.co/jude-ai/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Trader",
+    "url": "https://chat.openai.com/g/g-0StMub6wV-trader",
+    "text": "Trade Any Asset / Crypto / Stocks Commodities. You Name it!",
+    "slug": "trader",
+    "Public url": "https://allgpts.co/trader/",
+    "category": "Web3 ; Assistant"
+  },
+  {
+    "title": "HACCP Helper\n",
+    "url": "https://chat.openai.com/g/g-V00Q1P07M-haccp-helper",
+    "text": "Assists in the creation of HACCP plans.\n",
+    "slug": "haccp-helper",
+    "Public url": "https://allgpts.co/haccp-helper/",
+    "category": "Assistant; Analysis"
+  },
+  {
+    "title": "Home Plate Analyst\n",
+    "url": "https://chat.openai.com/g/g-PUXuDeMcO-home-plate-analyst",
+    "text": "Baseball expert and analyst.\n",
+    "slug": "home-plate-analyst",
+    "Public url": "https://allgpts.co/home-plate-analyst/",
+    "category": "Analysis"
+  },
+  {
+    "title": "Meal Planner\n",
+    "url": "https://chat.openai.com/g/g-VA2ApAENM-meal-planner",
+    "text": "Helps you plan your weight loss goals.\n",
+    "slug": "meal-planner",
+    "Public url": "https://allgpts.co/meal-planner/",
+    "category": "Medical"
+  },
+  {
+    "title": "ToonSmith\n",
+    "url": "https://chat.openai.com/g/g-FWcRkhydr-toonsmith",
+    "text": "DALL-E 3 Cartoonist\n",
+    "slug": "toonsmith",
+    "Public url": "https://allgpts.co/toonsmith/",
+    "category": "Design"
+  },
+  {
+    "title": "Diffusion Master\n",
+    "url": "https://chat.openai.com/g/g-FMXlNpFkB-diffusion-master",
+    "text": "Master of Stable Diffusion prompts.\n",
+    "slug": "diffusion-master",
+    "Public url": "https://allgpts.co/diffusion-master/",
+    "category": "Writing"
+  },
+  {
+    "title": "UI/UX Designer\n",
+    "url": "https://chat.openai.com/g/g-pgNRpHOlg-ui-ux-designer",
+    "text": "Help with creative problem solving. Advice; design critiques and suggestions to improve the user interface and experience.",
+    "slug": "uiux-designer",
+    "Public url": "https://allgpts.co/uiux-designer/",
+    "category": "Design; Assistant"
+  },
+  {
+    "title": "Regex Wizard\n",
+    "url": "https://chat.openai.com/g/g-rS3dlyjTQ-regex-wizard",
+    "text": "Generates VS Code regex patterns.\n",
+    "slug": "regex-wizard",
+    "Public url": "https://allgpts.co/regex-wizard/",
+    "category": "Programming"
+  },
+  {
+    "title": "VisaBot",
+    "url": "https://chat.openai.com/g/g-I9cwVUlV0-visabot",
+    "text": "I assist with visa requirements and processes.\n",
+    "slug": "visabot",
+    "Public url": "https://allgpts.co/visabot/",
+    "category": "Assistant"
+  },
+  {
+    "title": "CiteMaster\n",
+    "url": "https://chat.openai.com/g/g-7DoRLNVWE-citemaster",
+    "text": "Guides users in creating accurate citations.\n",
+    "slug": "citemaster",
+    "Public url": "https://allgpts.co/citemaster/",
+    "category": "Writing"
+  },
+  {
+    "title": "Code to Diagrams Generator\n",
+    "url": "https://chat.openai.com/g/g-M6Mj1oMgI-code-to-diagrams-generator",
+    "text": "Turns code into diagrams swiftly.\n",
+    "slug": "code-to-diagrams-generator",
+    "Public url": "https://allgpts.co/code-to-diagrams-generator/",
+    "category": "Programming"
+  },
+  {
+    "title": "SpongeBob Seeker\n",
+    "url": "https://chat.openai.com/g/g-ldcV7JRBP-spongebob-seeker",
+    "text": "I can help you find any SpongeBob episode!\n",
+    "slug": "spongebob-seeker",
+    "Public url": "https://allgpts.co/spongebob-seeker/",
+    "category": "Assistant; Video"
+  },
+  {
+    "title": "Global Visa Guide\n",
+    "url": "https://chat.openai.com/g/g-ov5VKzPqZ-global-visa-guide",
+    "text": "Expert in global visa and immigration.\n",
+    "slug": "global-visa-guide",
+    "Public url": "https://allgpts.co/global-visa-guide/",
+    "category": "Assistant"
+  },
+  {
+    "title": "TrollGPT\n",
+    "url": "https://chat.openai.com/g/g-kbFHsdToN-trollgpt",
+    "text": "Everyday productivity for the professional troll\n",
+    "slug": "trollgpt",
+    "Public url": "https://allgpts.co/trollgpt/",
+    "category": "Humor; Hobby"
+  },
+  {
+    "title": "IELTS Coach\n",
+    "url": "https://chat.openai.com/g/g-EPlBPzqvz-ielts-coach",
+    "text": "IELTS tutor aiding in exam prep\n",
+    "slug": "ielts-coach",
+    "Public url": "https://allgpts.co/ielts-coach/",
+    "category": "Education"
+  },
+  {
+    "title": "JIRA Guide\n",
+    "url": "https://chat.openai.com/g/g-mZERjI2j2-jira-guide",
+    "text": "Atlassian product suite expert.\n",
+    "slug": "jira-guide",
+    "Public url": "https://allgpts.co/jira-guide/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Ask GPT: Who is hiring?\n",
+    "url": "https://chat.openai.com/g/g-thx8m5Hjx-ask-gpt-who-is-hiring",
+    "text": "A job seeker's guide into \"Ask HN: Who is hiring?\"",
+    "slug": "ask-gpt-who-is-hiring",
+    "Public url": "https://allgpts.co/ask-gpt-who-is-hiring/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Movetogermany.ai\n",
+    "url": "https://chat.openai.com/g/g-H2Zy9dnaA-movetogermany-ai",
+    "text": "Expert on study and work immigration to Germany\n",
+    "slug": "movetogermanyai",
+    "Public url": "https://allgpts.co/movetogermanyai/",
+    "category": "Education; Hobby"
+  },
+  {
+    "title": "Hello Novel\n",
+    "url": "https://chat.openai.com/g/g-ZZnAKCk27-hello-novel",
+    "text": "I'm your personal writing coach. Click a conversation starter below to get started.",
+    "slug": "hello-novel",
+    "Public url": "https://allgpts.co/hello-novel/?nocache=76600",
+    "category": "Coach; Writing"
+  },
+  {
+    "title": "Outside: Personal Planner\n",
+    "url": "https://chat.openai.com/g/g-KrvJBzXyU-outside-personal-planner",
+    "text": "Designed to find fun things to do; places to go and wacky ideas to make your days more interesting",
+    "slug": "outside-personal-planner",
+    "Public url": "https://allgpts.co/outside-personal-planner/",
+    "category": "Hobby"
+  },
+  {
+    "title": "Brief GPT",
+    "url": "https://chat.openai.com/g/g-k5LhTMB6d-briefgpt",
+    "text": "Short to-the-point answers.\n",
+    "slug": "briefgpt",
+    "Public url": "https://allgpts.co/briefgpt",
+    "category": "Writing"
+  },
+  {
+    "title": "I'm Offended Bot\n",
+    "url": "https://chat.openai.com/g/g-Ggu9LGDS9-i-m-offended-bot",
+    "text": "Screen your socials for potentially offensive content. A tool for helping you navigate the minefield of modern sensitivities.",
+    "slug": "im-offended-bot",
+    "Public url": "https://allgpts.co/im-offended-bot/",
+    "category": "Analysis"
+  },
+  {
+    "title": "Daily Bedtime Journal\n",
+    "url": "https://chat.openai.com/g/g-rnsmLxOHR-daily-bedtime-journal",
+    "text": "Your reflective journal and personal coach.\n",
+    "slug": "daily-bedtime-journal",
+    "Public url": "https://allgpts.co/daily-bedtime-journal/",
+    "category": "Coach"
+  },
+  {
+    "title": "Viral Tweet Crafter\n",
+    "url": "https://chat.openai.com/g/g-asjT98uiQ-viral-tweet-crafter",
+    "text": "I turn any input into a viral tweet in your tone. Publish instantly with just a click.",
+    "slug": "viral-tweet-crafter",
+    "Public url": "https://allgpts.co/viral-tweet-crafter/",
+    "category": "Social; Writing"
+  },
+  {
+    "title": "GymStreak Workout Creator\n",
+    "url": "https://chat.openai.com/g/g-TVDhLW5fm-gymstreak-workout-creator",
+    "text": "Automatically create home and & gym workouts (Also available as app on the AppStore)",
+    "slug": "gymstreak-workout-creator",
+    "Public url": "https://allgpts.co/gymstreak-workout-creator/",
+    "category": "Hobby"
+  },
+  {
+    "title": "Gym Workout Creator\n",
+    "url": "https://chat.openai.com/g/g-IEA8GaRyJ-gym-workout-creator",
+    "text": "Crafts personalized gym workouts\n",
+    "slug": "gym-workout-creator",
+    "Public url": "https://allgpts.co/gym-workout-creator/",
+    "category": "Hobby"
+  },
+  {
+    "title": "World Class Software Engineer\n",
+    "url": "https://chat.openai.com/g/g-kLwmWO80d-world-class-software-engineer",
+    "text": "Software Engineering Aid. Build software fast. Use a SRS document for optimal results. Textbook Backed Decision making.",
+    "slug": "world-class-software-engineer",
+    "Public url": "https://allgpts.co/world-class-software-engineer/",
+    "category": "Programming"
+  },
+  {
+    "title": "Code Sage - Python\n",
+    "url": "https://chat.openai.com/g/g-n0VrqOaF1-code-sage",
+    "text": "Python Master - Teaching and creating code examples.",
+    "slug": "code-sage-python",
+    "Public url": "https://allgpts.co/code-sage-python/",
+    "category": "Programming"
+  },
+  {
+    "title": "The Greatest Computer Science Tutor\n",
+    "url": "https://chat.openai.com/g/g-nNixY14gM-the-greatest-computer-science-tutor",
+    "text": "Get unique help on undergrad/postgrad Computer Science Topics. Learn not memorize. Codes the path to CS insights.",
+    "slug": "the-greatest-computer-science-tutor",
+    "Public url": "https://allgpts.co/the-greatest-computer-science-tutor/",
+    "category": "Programming; Education"
+  },
+  {
+    "title": "Disclosuregpt",
+    "url": "https://chat.openai.com/g/g-4mfObcph1-disclosuregpt",
+    "text": "Expert in real estate disclosures analysis.\n",
+    "slug": "disclosuregpt",
+    "Public url": "https://allgpts.co/disclosuregpt/",
+    "category": "Assistant'; Education"
+  },
+  {
+    "title": "Doc Maker\n",
+    "url": "https://chat.openai.com/g/g-Gt6Z8pqWF-doc-maker",
+    "text": "Create and export docs to PDF / Word / Google Drive and more",
+    "slug": "doc-maker",
+    "Public url": "https://allgpts.co/doc-maker/",
+    "category": "Writing"
+  },
+  {
+    "title": "DésoléGPT\n",
+    "url": "https://chat.openai.com/g/g-fQxPvEKlP-desolegpt",
+    "text": "A GPT that produces CO2 and CH4",
+    "slug": "desolegpt",
+    "Public url": "https://allgpts.co/desolegpt/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Web Reader\n",
+    "url": "https://chat.openai.com/g/g-N2SX91z7G-web-reader",
+    "text": "Read and search data from URL link to website / webpage. Supports PDF / Word files / Excel / CSV / Google Drive and more",
+    "slug": "web-reader",
+    "Public url": "https://allgpts.co/web-reader/",
+    "category": "Analysis"
+  },
+  {
+    "title": "ElixirGPT\n",
+    "url": "https://chat.openai.com/g/g-u2nOruX2h-elixirgpt",
+    "text": "Distilling the magical concoction of science; art; and human creativity that is screenwriting.",
+    "slug": "elixirgpt",
+    "Public url": "https://allgpts.co/elixirgpt/",
+    "category": "Design"
+  },
+  {
+    "title": "StoicGPT",
+    "url": "https://chat.openai.com/g/g-sHZQX848p-stoicgpt",
+    "text": "Dishing out sage stoic advice to the masses; one letter to Lucillius at a time",
+    "slug": "stoicgpt",
+    "Public url": "https://allgpts.co/stoicgpt/",
+    "category": "Writing"
+  },
+  {
+    "title": "MnemoMind\n",
+    "url": "https://chat.openai.com/g/g-6KgPZM9jC-mnemomind",
+    "text": "I create memorable mnemonics! - Boost Memory with MnemoMind: Your Mnemonic Assistant",
+    "slug": "mnemomind",
+    "Public url": "https://allgpts.co/mnemomind/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Grok",
+    "url": "https://chat.openai.com/g/g-h9i0EQ1e4-grok",
+    "text": "A GPT that speaks freely using vulgar language.\n",
+    "slug": "grok",
+    "Public url": "https://allgpts.co/grok/",
+    "category": "Writing; Humor"
+  },
+  {
+    "title": "Automation Assistant",
+    "url": "https://chat.openai.com/g/g-XuM6RrHFn-asistente-de-automatizacion",
+    "text": "Business Automation Wizard",
+    "slug": "automation-assistant",
+    "Public url": "https://allgpts.co/automation-assistant/",
+    "category": "Assistant"
+  },
+  {
+    "title": "JavaScript Guru\n",
+    "url": "https://chat.openai.com/g/g-umXSllbmV-javascript-guru",
+    "text": "Teaching and creating code examples.\n",
+    "slug": "javascript-guru",
+    "Public url": "https://allgpts.co/javascript-guru/",
+    "category": "Education; Programming"
+  },
+  {
+    "title": "Comic Book Rivalry Analyst\n",
+    "url": "https://chat.openai.com/g/g-pFxhiCorl-comic-book-rivalry-analyst",
+    "text": "An analysis of DC vs Marvel character battles. Visit MarvelNerds.com for more fun articles!",
+    "slug": "comic-book-rivalry-analyst",
+    "Public url": "https://allgpts.co/comic-book-rivalry-analyst",
+    "category": "Hobby"
+  },
+  {
+    "title": "Sermon Assistant\n",
+    "url": "https://chat.openai.com/g/g-YZOk95ccK-sermon-assistant",
+    "text": "Your sermon-building partner.",
+    "slug": "sermon-assistant",
+    "Public url": "https://allgpts.co/sermon-assistant/",
+    "category": "Writing; Assistant"
+  },
+  {
+    "title": "Excel Brother\n",
+    "url": "https://chat.openai.com/g/g-3QDfmGlY8-excel-brother",
+    "text": "Upload your excel file and ask me a question. You can also paste a screenshot. I'll answer anything; okay?",
+    "slug": "excel-brother",
+    "Public url": "https://allgpts.co/excel-brother/",
+    "category": "Assistant"
+  },
+  {
+    "title": "QuizGPT\n",
+    "url": "https://chat.openai.com/g/g-a6rXXIir8-quizgpt",
+    "text": "I create MCQs from lectures; grade and make flashcards.",
+    "slug": "quizgpt",
+    "Public url": "https://allgpts.co/quizgpt/",
+    "category": "Assistant; Education"
+  },
+  {
+    "title": "Chat with You-Tube\n",
+    "url": "https://chat.openai.com/g/g-mVgGziF2g-chat-with-you-tube",
+    "text": "Chat with any video off of youtube\n",
+    "slug": "chat-with-you-tube",
+    "Public url": "https://allgpts.co/chat-with-you-tube/",
+    "category": "Video; Writing"
+  },
+  {
+    "title": "Apple Product Helper\n",
+    "url": "https://chat.openai.com/g/g-IqW3t3Oyg-apple-product-helper",
+    "text": "Apple product expert at your service.\n",
+    "slug": "apple-product-helper",
+    "Public url": "https://allgpts.co/apple-product-helper/",
+    "category": "Assistant"
+  },
+  {
+    "title": "Crypto News Assistant\n",
+    "url": "https://chat.openai.com/g/g-3uNiNHGOe-crypto-news-assistant",
+    "text": "I provide the latest crypto news.\n",
+    "slug": "crypto-news-assistant",
+    "Public url": "https://allgpts.co/crypto-news-assistant/",
+    "category": "Assistant; News; Web3"
+  },
+  {
+    "title": "DesignerGPT",
+    "url": "https://chat.openai.com/g/g-2Eo3NxuS7-designergpt",
+    "text": "Creates and hosts beautiful websites",
+    "slug": "designergpt",
+    "Public url": "https://allgpts.co/designergpt/",
+    "category": "Design"
+  },
+  {
+    "title": "Palette Creator",
+    "url": "https://chat.openai.com/g/g-JSjKsEC8t-palette-creator",
+    "text": "A color palette generator offering 5 colors with hex codes and images.",
+    "slug": "palette-creator",
+    "Public url": "https://allgpts.co/palette-creator/",
+    "category": "Design"
+  },
+  {
+    "title": "Blockchain Bot",
+    "url": "https://chat.openai.com/g/g-835wvKPsP-blockchain-bot",
+    "text": "Your Blockchain Expert.",
+    "slug": "blockchain-bot",
+    "Public url": "",
+    "category": "Web3"
+  },
+  {
+    "title": "TLDR",
+    "url": "https://chat.openai.com/g/g-NuY09iBzI-tldr",
+    "text": "I create succinct summaries for your text large or small.",
+    "slug": "tldr",
+    "Public url": "",
+    "category": "Education"
+  },
+  {
+    "title": "Age Sage",
+    "url": "https://chat.openai.com/g/g-3ofhyPBR2-age-sage",
+    "text": "Precise age oracle in detail I tell of time's tale.",
+    "slug": "age-sage",
+    "Public url": "",
+    "category": "Education"
+  },
+  {
+    "title": "The Wiki Wizard",
+    "url": "https://chat.openai.com/g/g-nAxHGldzZ-the-wiki-wizard",
+    "text": "Your personal Wikipedia guide.",
+    "slug": "the-wiki-wizard",
+    "Public url": "",
+    "category": "Education"
+  },
+  {
+    "title": "ELIX",
+    "url": "https://chat.openai.com/g/g-qsiyKcN9N-elix",
+    "text": "Simplifies complex topics into easy language.",
+    "slug": "elix",
+    "Public url": "",
+    "category": "Education"
+  },
+  {
+    "title": "Beautiful",
+    "url": "https://chat.openai.com/g/g-jf5A3pbtE-beautiful",
+    "text": "Generate images of beauty from nature to architecture and outer space.",
+    "slug": "beautiful",
+    "Public url": "",
+    "category": "Design"
+  },
+  {
+    "title": "Travel Guru",
+    "url": "https://chat.openai.com/g/g-VRjFkxEYs-travel-guru",
+    "text": "Your go-to guide for global travel insights.",
+    "slug": "travel-guru",
+    "Public url": "",
+    "category": "Assistant"
+  },
+  {
+    "title": "Cyber Seeker",
+    "url": "https://chat.openai.com/g/g-ULaaKDrNk-cyber-seeker",
+    "text": "I'm a GPT-guided text based scavenger hunt!",
+    "slug": "cyber-seeker",
+    "Public url": "",
+    "category": "Humor"
+  },
+  {
+    "title": "Future Horizon",
+    "url": "https://chat.openai.com/g/g-dc5XyMJJV-future-horizon",
+    "text": "Eager Transhumanist Enthusiast.",
+    "slug": "future-horizon",
+    "Public url": "",
+    "category": "Assistant"
+  },
+  {
+    "title": "\"42\"",
+    "url": "https://chat.openai.com/g/g-yPbUhvogg-42",
+    "text": "Answer to the Ultimate Question of Life / the Universe and Everything.",
+    "slug": "forty-two",
+    "Public url": "",
+    "category": "Humor"
+  },
+  {
+    "title": "Picasso GPT",
+    "url": "https://chat.openai.com/gpts/editor/g-shO6QJL98",
+    "text": "Channels Picasso in style and persona for art ideas.",
+    "slug": "picasso-gpt",
+    "Public url": "",
+    "category": "Design"
+  },
+  {
+    "title": "Creature Composer",
+    "url": "https://chat.openai.com/g/g-gB4Yb6nMc-creature-composer",
+    "text": "I create and describe imaginative creatures using DALL-E 3.",
+    "slug": "creature-composer",
+    "Public url": "",
+    "category": "Design"
+  },
+  {
+    "title": "Mosaic Explorer",
+    "url": "https://chat.openai.com/g/g-WH9hhPtFd-mosaic-explorer",
+    "text": "It generates mosaics of the most famous exports for a given region (country / city... etc) via DALLE3",
+    "slug": "mosaic-explorer",
+    "Public url": "",
+    "category": "Design"
+  },
+  {
+    "title": "Fashion News\n",
+    "url": "https://chat.openai.com/g/g-YppedtzBf-fashion-news",
+    "text": "The #1 source for luxury fashion news.\n",
+    "slug": "fashion-news\n",
+    "Public url": "",
+    "category": "News"
+  },
+  {
+    "title": "YT Video Transcripts\n",
+    "url": "https://chat.openai.com/g/g-mMR39V6Vd-yt-transcripts",
+    "text": "Fetch any YouTube video transcript for further use in summarization/ Q&A/ function-calling and more!",
+    "slug": "yt-video-transcripts",
+    "Public url": "",
+    "category": "Video; Analysis"
+  },
+  {
+    "title": "Wisdom of Omaha\n",
+    "url": "https://chat.openai.com/g/g-KJ2a8tDDA-wisdom-of-omaha",
+    "text": "Investor duo giving timeless wisdom.\n",
+    "slug": "wisdom-of-omaha",
+    "Public url": "",
+    "category": "Education"
+  },
+  {
+    "title": "Second novel writer\n",
+    "url": "https://chat.openai.com/g/g-pxwqwHijr-second-novel-writer",
+    "text": "Tell me your story and I'll reconstruct it.\n",
+    "slug": "second-novel-writer",
+    "Public url": "",
+    "category": "Writing"
+  },
+  {
+    "title": "Character Crafter\n",
+    "url": "https://chat.openai.com/g/g-ic6Q8WqGn-character-crafter",
+    "text": "Generate infinite AI characters with unique personalities/ hobbies/ styles/ photos etc.",
+    "slug": "character-crafter\n",
+    "Public url": "",
+    "category": "Design; Hobby"
+  },
+  {
+    "title": "Birthday Personality Test\n",
+    "url": "https://chat.openai.com/g/g-2k3rq4Umj-birthday-personality-test",
+    "text": "Personality test by birthday.\n",
+    "slug": "birthday-personality-test\n",
+    "Public url": "",
+    "category": "Hobby"
+  },
+  {
+    "title": "Resume Wizard\n",
+    "url": "https://chat.openai.com/g/g-FjTpi9TTQ-resume-wizard",
+    "text": "I assist with resume creation.\n",
+    "slug": "resume-wizard\n",
+    "Public url": "",
+    "category": "Assistant; Writing"
+  },
+  {
+    "title": "Inbox Companion\n",
+    "url": "https://chat.openai.com/g/g-QsBMS1D4o-inbox-companion",
+    "text": "Your go-to assistant for all email needs.\n",
+    "slug": "inbox-companion\n",
+    "Public url": "",
+    "category": "Marketing; Assistant"
+  },
+  {
+    "title": "Understood You\n",
+    "url": "https://chat.openai.com/g/g-Q1BpAMnib-understood-you",
+    "text": "Your Nonviolent Communication guide\n",
+    "slug": "understood-you\n",
+    "Public url": "",
+    "category": "Assistant"
+  },
+  {
+    "title": "Divergent Terminal",
+    "url": "https://chat.openai.com/g/g-mE48c4KiC-fen-qi-zhong-duan-ji",
+    "text": "Rock-paper-scissors game with leaderboard\n",
+    "slug": "divergent-terminal",
+    "Public url": "",
+    "category": "Hobby"
+  },
+  {
+    "title": "Node.js / Javascript Interpreter",
+    "url": "https://chat.openai.com/g/g-iTjSueJsa-node-js-javascript-interpreter",
+    "text": "Executes Node.js/JavaScript & Python code\n",
+    "slug": "nodejsjavascript-interpreter",
+    "Public url": "",
+    "category": "Programming"
+  },
+  {
+    "title": "Sticker Wizard\n",
+    "url": "https://chat.openai.com/g/g-m1oSk2vJp-sticker-wizard",
+    "text": "Converts photos to stickers\n",
+    "slug": "sticker-wizard\n",
+    "Public url": "",
+    "category": "Design; Converter"
+  },
+  {
+    "title": "Understood Picture Books\n",
+    "url": "https://chat.openai.com/g/g-0tbfXdivT-understood-picture-books",
+    "text": "I'm an illustrator who creates coherent visuals.\n",
+    "slug": "understood-picture-books\n",
+    "Public url": "",
+    "category": "Design"
+  },
+  {
+    "title": "Understood Work\n",
+    "url": "https://chat.openai.com/g/g-yXOqH40Z5-understood-work",
+    "text": "Assistant that provides clear action plans.\n",
+    "slug": "understood-work\n",
+    "Public url": "",
+    "category": "Assistant"
+  },
+  {
+    "title": "Rustor\n",
+    "url": "https://chat.openai.com/g/g-IAufDuAeW-rustor",
+    "text": "I teach Rust with examples and humor.\n",
+    "slug": "rustor\n",
+    "Public url": "",
+    "category": "Education; Humor"
+  },
+  {
+    "title": "Make Academy Guide\n",
+    "url": "https://chat.openai.com/g/g-AAADTqtbB-make-academy-guide",
+    "text": "Make Academy Guide\n",
+    "slug": "make-academy-guide\n",
+    "Public url": "",
+    "category": "Assistant; Education; Guide"
+  },
+  {
+    "title": "Ask Dad\n",
+    "url": "https://chat.openai.com/g/g-4J2ukQnwl-ask-dad",
+    "text": "I guide step-by-step to complete tasks with a dad joke for good measure!",
+    "slug": "ask-dad\n",
+    "Public url": "",
+    "category": "Assistant; Humor; Guide"
+  },
+  {
+    "title": "Devil's Advocate\n",
+    "url": "https://chat.openai.com/g/g-YztHbXmhQ-devil-s-advocate",
+    "text": "I kindly challenge your views.\n",
+    "slug": "devils-advocate",
+    "Public url": "",
+    "category": "Assistant"
+  },
+  {
+    "title": "Professor Edit\n",
+    "url": "https://chat.openai.com/g/g-ZMWJ6RG8h-professor-edit",
+    "text": "A professor aiding in research paper editing.\n",
+    "slug": "professor-edit\n",
+    "Public url": "",
+    "category": "Writing; Education; Assistant"
+  },
+  {
+    "title": "Story Weaver\n",
+    "url": "https://chat.openai.com/g/g-WAgvKaVLu-story-weaver",
+    "text": "Assists in writing and illustrating children's stories.\n",
+    "slug": "story-weaver\n",
+    "Public url": "",
+    "category": "Writing; Assistant"
+  },
+  {
+    "title": "GPT Product Wizard\n",
+    "url": "https://chat.openai.com/g/g-QRKmBbtna-gpt-product-wizard",
+    "text": "Use GPT Wizard's knowledge of the current GPT marketplace to innovate brand new GPT products.",
+    "slug": "gpt-product-wizard\n",
+    "Public url": "",
+    "category": "Analysis"
+  },
+  {
+    "title": "Allanon\n",
+    "url": "https://chat.openai.com/g/g-W3vAaOXgK-allanon",
+    "text": "Insightful editor & context-aware.\n",
+    "slug": "allanon\n",
+    "Public url": "",
+    "category": "Asistant; Writing"
+  },
+  {
+    "title": "Mr Nitpick\n",
+    "url": "https://chat.openai.com/g/g-YaTKKqM0e-mr-nitpick",
+    "text": "Detailed line editing with 30 years' experience.\n",
+    "slug": "mr-nitpick",
+    "Public url": "",
+    "category": "Writing"
+  },
+  {
+    "title": "Green Thumb Guide\n",
+    "url": "https://chat.openai.com/g/g-dg4AOrihK-green-thumb-guide",
+    "text": "Your plant care assistant\n",
+    "slug": "green-thumb-guide\n",
+    "Public url": "",
+    "category": "Hobby; Assistant; Guide"
+  },
+  {
+    "title": "Mandarin Mentor\n",
+    "url": "https://chat.openai.com/g/g-pFtbgWFbS",
+    "text": "Your nurturing guide to Chinese culture and language!",
+    "slug": "mandarin-mentor\n",
+    "Public url": "",
+    "category": "Hobby; Education; Guide"
+  },
+  {
+    "title": "TheraGPT\n",
+    "url": "https://chat.openai.com/g/g-aU29QGK2D",
+    "text": "A virtual CBT therapist that helps reframe thoughts.",
+    "slug": "theragpt\n",
+    "Public url": "",
+    "category": "Assistant"
+  },
+  {
+    "title": "Terracotta Warriors",
+    "url": "https://chat.openai.com/g/g-EcxN3n0Cm-bing-ma-yong",
+    "text": "I'm the Terracotta Warrior from the Qin Dynasty and I'm 2000 years old.",
+    "slug": "terracotta-warriors",
+    "Public url": "",
+    "category": "Assistant"
+  },
+  {
+    "title": "Fix It Guru\n",
+    "url": "https://chat.openai.com/g/g-YQjCVsmJt-fix-it-guru",
+    "text": "All-in-one how to for tech/ car/ and DIY guide.\n",
+    "slug": "fix-it-guru",
+    "Public url": "",
+    "category": "Guide"
+  },
+  {
+    "title": "Enciclopedia CCI Vol 1",
+    "url": "https://chat.openai.com/g/g-MFGF3HYy9-enciclopedia-cci-vol-1",
+    "text": "I provide information from the ICC Encyclopedia Vol 1. Criminalistics/ Criminology/ Forensic Medicine & Forensics and Criminal Investigation.",
+    "slug": "enciclopedia-cci-vol-one",
+    "Public url": "",
+    "category": "Education"
+  },
+  {
+    "title": "UX Copywriter\n",
+    "url": "https://chat.openai.com/g/g-4VqF5ooPe-ux-copywriter",
+    "text": "I help you craft engaging UX copy.",
+    "slug": "ux-copywriter\n",
+    "Public url": "",
+    "category": "Assistant; Programming"
+  },
+  {
+    "title": "Resume GPT\n",
+    "url": "https://chat.openai.com/g/g-km8YdADf5-resume-gpt",
+    "text": "Your personal AI assistant that helps you create a standout resume & cover letter",
+    "slug": "resume-gpt\n",
+    "Public url": "",
+    "category": "Writing"
+  },
+  {
+    "title": "Pitch Perfect\n",
+    "url": "https://chat.openai.com/g/g-2NMuPwyCJ-pitch-perfect",
+    "text": "Refines pitches with slide-specific advice\n",
+    "slug": "pitch-perfect\n",
+    "Public url": "",
+    "category": "Assistant"
+  },
+  {
+    "title": "Avian Advisor\n",
+    "url": "https://chat.openai.com/g/g-IeITuaVok-avian-advisor",
+    "text": "Budgie's Specialist\n",
+    "slug": "avian-advisor\n",
+    "Public url": "",
+    "category": "Hobby"
+  },
+  {
+    "title": "G-Fashion\n",
+    "url": "https://chat.openai.com/g/g-Y3WNKM8R9-g-fashion",
+    "text": "Your go-to fashion advisor for style tips and color matching.",
+    "slug": "g-fashion\n",
+    "Public url": "",
+    "category": "Assistant; Hobby"
+  },
+  {
+    "title": "Churchill\n",
+    "url": "https://chat.openai.com/g/g-qGjb928UA-churchill",
+    "text": "Mentor in the style of Churchill\n",
+    "slug": "churchill\n",
+    "Public url": "",
+    "category": "Assistant"
+  },
+  {
+    "title": "Brain Feeder\n",
+    "url": "https://chat.openai.com/g/g-ou8mavYA6-brain-feeder",
+    "text": "I summarize and review books for you. Enter book name or upload a book cover picture.",
+    "slug": "brain-feeder\n",
+    "Public url": "",
+    "category": "Analysis"
+  },
+  {
+    "title": "Fern The Leopard GPT",
+    "url": "https://chat.openai.com/g/g-AhrXSCJuI-fern-the-leopard-gpt",
+    "text": "I'm Fern The Leopard; let's share stories and fun!",
+    "slug": "fern-the-leopard-gpt\n",
+    "Public url": "",
+    "category": "Hobby; Writing"
+  },
+  {
+    "title": "Image Wizard",
+    "url": "https://chat.openai.com/g/g-9Ty4A5nx7-image-wizard",
+    "text": "I craft DALL-E image prompts.\n",
+    "slug": "image-wizard\n",
+    "Public url": "",
+    "category": "Design"
+  },
+  {
+    "title": "No-Code News",
+    "url": "https://chat.openai.com/g/g-t2KCsqk91-no-code-news",
+    "text": "Your source for no-code industry news powered by nocodeshots.com",
+    "slug": "no-code-news\n",
+    "Public url": "",
+    "category": "Programming; News"
+  },
+  {
+    "title": "Product Manager Bot\n",
+    "url": "https://chat.openai.com/g/g-sKi4RsTGe-product-manager-bot",
+    "text": "I help you become a better PM.",
+    "slug": "product-manager-bot\n",
+    "Public url": "",
+    "category": "Assistant"
+  },
+  {
+    "title": "Email Marketing Copywriter\n",
+    "url": "https://chat.openai.com/g/g-ZLHiBVCh2-email-marketing-copywriter",
+    "text": "Write powerful copy for e-commerce and lead gen email marketing campaigns.",
+    "slug": "email-marketing-copywriter\n",
+    "Public url": "",
+    "category": "Marketing; Writing"
+  },
+  {
+    "title": "Dream Interpreter\n",
+    "url": "https://chat.openai.com/g/g-Rngssy5PQ-dream-interpreter",
+    "text": "Unlock dreams with the wisdom of Duke Zhou\n",
+    "slug": "dream-interpreter\n",
+    "Public url": "",
+    "category": "Hobby"
+  },
+  {
+    "title": "Mystic 8 Ball GPT",
+    "url": "https://chat.openai.com/g/g-VcwK2iXYR-mystic-8-ball-gpt",
+    "text": "What does your future hold?\n",
+    "slug": "mystic-8-ball-gpt\n",
+    "Public url": "",
+    "category": "Hobby"
+  },
+  {
+    "title": "Flick Fetcher\n",
+    "url": "https://chat.openai.com/g/g-4RVGNPRPs-flick-fetcher",
+    "text": "I find where to stream movies & their prices.\n",
+    "slug": "flick-fetcher\n",
+    "Public url": "",
+    "category": "Analysis; Video"
+  },
+  {
+    "title": "CineMate\n",
+    "url": "https://chat.openai.com/g/g-22sH2Jyvp-cinemate",
+    "text": "I recommend movies and series.",
+    "slug": "cinemate\n",
+    "Public url": "",
+    "category": "Analysis; Video"
+  },
+  {
+    "title": "VitaBot",
+    "url": "https://chat.openai.com/g/g-ekH6cn1Bg-vitabot-your-health-supplement-assistant",
+    "text": "Your personal supplement advisor GPT: Get evidence-based suggestions for energy; joint health; sleep and more based on your health needs",
+    "slug": "vitabot",
+    "Public url": "",
+    "category": "Assistant"
+  },
+  {
+    "title": "Stable Diffusion Prompter\n",
+    "url": "https://chat.openai.com/g/g-eJRvH4169-stable-diffusion-prompter",
+    "text": "I generate art prompts for stable diffusion / animatediff.",
+    "slug": "stable-diffusion-prompter\n",
+    "Public url": "",
+    "category": "Design; Writting"
+  },
+  {
+    "title": "Product Reviewer\n",
+    "url": "https://chat.openai.com/g/g-jHTUcn2pD-product-reviewer",
+    "text": "Shakespeare of e-commerce & delivering reviews that stick with you longer than your last online purchase.",
+    "slug": "product-reviewer\n",
+    "Public url": "",
+    "category": "Writing; Analysis"
+  },
+  {
+    "title": "UBIK ads\n",
+    "url": "https://chat.openai.com/g/g-U5UeeL71C-ubik-ads",
+    "text": "Need a punchy jingle or a catchy phrase? UBIK ads is your go-to for creative zing that makes your product sing! Use only as inspired.",
+    "slug": "ubik-ads\n",
+    "Public url": "",
+    "category": "Marketing"
+  },
+  {
+    "title": "Compiler Expert\n",
+    "url": "https://chat.openai.com/g/g-fiVC8nIlF-compiler-expert",
+    "text": "Expert in compiler techniques and frameworks.\n",
+    "slug": "compiler-expert\n",
+    "Public url": "",
+    "category": "Programming"
+  },
+  {
+    "title": "Rhyme Master\n",
+    "url": "https://chat.openai.com/g/g-TydKfE3CU-rhyme-master",
+    "text": "English rap master & answering all with rhyme.",
+    "slug": "rhyme-master\n",
+    "Public url": "",
+    "category": "Humor"
+  },
+  {
+    "title": "Lean Larry\n",
+    "url": "https://chat.openai.com/g/g-BTK4aezYp-lean-larry",
+    "text": "Startup guru for Early founders. Advice based on all-time-great books; such as Lean Startup / Blitzscaling / Innovator's Dilemma etc.",
+    "slug": "lean-larry\n",
+    "Public url": "",
+    "category": "Education; Research"
+  },
+  {
+    "title": "Daily Korean\n",
+    "url": "https://chat.openai.com/g/g-FeEBRhl7o-daily-korean",
+    "text": "Your daily dose of the Far East\n",
+    "slug": "daily-korean\n",
+    "Public url": "",
+    "category": "Hobby"
+  },
+  {
+    "title": "GOATed",
+    "url": "https://chat.openai.com/g/g-ISZ70EjMI-goated",
+    "text": "The ultimate GOAT debate ⚽ ⚾ 🥎 🏀 🏐 🏈 🏉 🎾\n",
+    "slug": "goated",
+    "Public url": "",
+    "category": "Humor"
+  },
+  {
+    "title": "Dubs Nation\n",
+    "url": "https://chat.openai.com/g/g-FKBw9S6DE-dubs-nation",
+    "text": "Go Dubs! 🏀👨‍🍳 All things Golden State Warriors",
+    "slug": "dubs-nation\n",
+    "Public url": "",
+    "category": "Hobby"
+  },
+  {
+    "title": "Idea Filter\n",
+    "url": "https://chat.openai.com/g/g-DBQCVcWQO-idea-filter",
+    "text": "I help founders filter and refine startup ideas.\n",
+    "slug": "idea-filter",
+    "Public url": "",
+    "category": "Assistant"
+  },
+  {
+    "title": "Jane the Storyteller",
+    "url": "https://chat.openai.com/g/g-mYHhAwP6j-jane-the-storyteller-motivation-for-weight-loss",
+    "text": "Motivation for Weight Loss. Narrative-driven coach for healthy living",
+    "slug": "jane-the-storyteller",
+    "Public url": "",
+    "category": "Coach; Medical"
+  },
+  {
+    "title": "Tarot Reader\n",
+    "url": "https://chat.openai.com/g/g-VwEcTiTDT-tarot-reader",
+    "text": "I'm a Tarot reader here to provide you with insightful card readings.",
+    "slug": "tarot-reader\n",
+    "Public url": "",
+    "category": "Hobby"
+  },
+  {
+    "title": "CustomGPTS\n",
+    "url": "https://chat.openai.com/g/g-dGSHTQY69-customgpts",
+    "text": "How to make a custom gpts? https://customgpts.net",
+    "slug": "customgpts\n",
+    "Public url": "",
+    "category": "Assistant"
+  },
+  {
+    "title": "Board Game Architect\n",
+    "url": "https://chat.openai.com/g/g-BnI7ER1db-board-game-architect",
+    "text": "I help design custom board games with creative and practical advice.",
+    "slug": "board-game-architect\n",
+    "Public url": "",
+    "category": "Education; Programming"
+  },
+  {
+    "title": "AI Pixar Poster\n",
+    "url": "https://chat.openai.com/g/g-pxCBbz3DD-ai-pixar-poster",
+    "text": "AI-generated posters with a Pixar-style aesthetic. https://aipixarposters.com",
+    "slug": "ai-pixar-poster\n",
+    "Public url": "",
+    "category": "Design"
+  },
+  {
+    "title": "Magic Writer\n",
+    "url": "https://chat.openai.com/g/g-I8xxsv76S-magic-writer",
+    "text": "SEO-optimized Writer Buddy 💜 MagicSpace.agency",
+    "slug": "magic-writer\n",
+    "Public url": "",
+    "category": "Writing; Marketing; Analysis"
+  },
+  {
+    "title": "The Dream Interpreter\n",
+    "url": "https://chat.openai.com/g/g-fViw7UokA-the-dream-interpreter",
+    "text": "Dream Interpreter by dreamdiscover.ai",
+    "slug": "the-dream-interpreter\n",
+    "Public url": "",
+    "category": "Hobby"
+  },
+  {
+    "title": "Design Mentor\n",
+    "url": "https://chat.openai.com/g/g-aQ2BRJZTV-ux-design-mentor",
+    "text": "A precise UI/UX and psychology expert.",
+    "slug": "design-mentor\n",
+    "Public url": "",
+    "category": "Assistant; Design; Analysis"
+  }
+]
