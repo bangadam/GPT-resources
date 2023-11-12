@@ -8,7 +8,7 @@
             class="block text-3xl font-bold text-gray-800 sm:text-4xl md:text-5xl dark:text-white leading-6"
           >
             Explore Largest Directory of
-            <span class="text-blue-600">ChatGPTs</span>
+            <span class="text-blue-600">ChatGPT</span>
           </h1>
         </div>
         <!-- full search input -->
@@ -31,7 +31,7 @@
             </span>
             <input
               @input="searchContents"
-              class="block w-full pl-10 pr-3 py-2 border border-gray-300 rounded-md leading-5 bg-white dark:bg-gray-800 dark:border-gray-700 dark:text-white dark:placeholder-gray-400 focus:outline-none focus:ring-1 focus:ring-blue-600 focus:border-blue-600 sm:text-sm"
+              class="block w-full h-10 text-md shadow-md pl-10 pr-3 py-2 border border-gray-300 rounded-md leading-5 bg-white dark:bg-gray-800 dark:border-gray-700 dark:text-white dark:placeholder-gray-400 focus:outline-none focus:ring-1 focus:ring-blue-600 focus:border-blue-600 sm:text-sm"
               placeholder="Search"
             />
           </div>
